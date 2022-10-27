@@ -32,7 +32,7 @@ jobs:
       - name: Push
         uses: heussd/mirror-to-bitbucket-github-action@v2
         with:
-          username: teamgahsp.umd@gmail.com
+          username: teamgahsp
           spacename: teamgahsp
           repository: gahsp
           password: ${{ secrets.BITBUCKET_PASSWORD }}
