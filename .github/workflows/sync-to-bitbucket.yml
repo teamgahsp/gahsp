@@ -35,4 +35,4 @@ jobs:
           username: teamgahsp
           spacename: teamgahsp
           repository: gahsp
-          password: ${{ secrets."TeamGAHSP2025!" }}
+          password: ${{ secrets.'TeamGAHSP2025!' }}
