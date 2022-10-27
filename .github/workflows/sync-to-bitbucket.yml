@@ -35,4 +35,4 @@ jobs:
           username: teamgahsp
           spacename: teamgahsp
           repository: gahsp
-          password: ${{ secrets.BITBUCKET_PASSWORD }}
+          password: ${{ secrets.ATBBBfMRugBBYGrngZHJP6Y8RkBh354A8D34 }}
