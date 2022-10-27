@@ -35,4 +35,4 @@ jobs:
           username: teamgahsp.umd@gmail.com
           spacename: teamgahsp
           repository: gahsp
-          password: ${{ secrets.TeamGAHSP2025! }}
+          password: ${{ secrets.BITBUCKET_PASSWORD }}
