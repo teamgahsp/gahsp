@@ -8,6 +8,7 @@
 
 import pandas as pd
 from sodapy import Socrata
+import datetime
 
 # Unauthenticated client only works with public data sets. Note 'None'
 # in place of application token, and no username or password:
@@ -17,12 +18,20 @@ from sodapy import Socrata
 client = Socrata("data.montgomerycountymd.gov",
                  "qBrdfukFeTG5upnBLdCNnmuYb")
 
-# First 2000 results, returned as JSON from API / converted to Python list of
+# Returned as JSON from API / converted to Python list of
 # dictionaries by sodapy.
-results = client.get("icn6-v9z3", limit=5)
+results = client.get("icn6-v9z3", limit = 2000, select = "start_date, crimename2, crimename3, latitude, longitude", order = "start_date DESC")
 
 # Convert to pandas DataFrame
 results_df = pd.DataFrame.from_records(results)
 
+# Split the 'start_date' column into two: one for date, one for time
+results_df.insert(1, "start_time", results_df['start_date'].astype(str).str[11:], True)
+results_df['start_date'] = results_df['start_date'].astype(str).str[:10]
 
-results_df.to_csv('results.csv')
+date = (datetime.date.today() - datetime.timedelta(days=15)).strftime("%Y-%m-%d")
+# today = pd.Timestamp("today").strftime("%Y-%m-%d").replace("-", "")
+results_df = results_df[results_df['start_date'] >= date]
+
+results_df.to_csv('data.csv')
+
