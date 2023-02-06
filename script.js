@@ -3,13 +3,13 @@ var map;
 function createMap() {
     var options = {
         center: {lat: 39.1547, lng: -77.2405},
-        zoom: 5
+        zoom: 10
     };
 
     map = new google.maps.Map(document.getElementById("map"), options);
 
     var script = document.createElement('script');
-    script.src = "./data.js";
+    script.src = "data.js";
     document.getElementsByTagName('head')[0].appendChild(script);
 }
 

@@ -37,7 +37,15 @@ date = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
 results_df = results_df[results_df['start_date'] >= date]
 
 geo_json = to_geojson(df=results_df, lat='latitude', lon='longitude', properties=['start_date', 'start_time', 'crimename2', 'crimename3'])
-write_geojson(geo_json, filename='data.geojson', indent=4)
+for feature in geo_json["features"]:
+    for coord in range(0,2):
+        feature["geometry"]["coordinates"][coord] = float(feature["geometry"]["coordinates"][coord])
+f = open("data.js", "w")
+
+f.write("eqfeed_callback(" + str(geo_json) + ");")
+f.close()
+
+# write_geojson(geo_json, filename='data.geojson', indent=4)
 
 
 
