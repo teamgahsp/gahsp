@@ -8,6 +8,9 @@
 
 import pandas as pd
 from sodapy import Socrata
+from pandas_geojson import to_geojson, write_geojson
+import googlemaps
+#import gmplot
 import datetime
 
 # Unauthenticated client only works with public data sets. Note 'None'
@@ -29,9 +32,23 @@ results_df = pd.DataFrame.from_records(results)
 results_df.insert(1, "start_time", results_df['start_date'].astype(str).str[11:], True)
 results_df['start_date'] = results_df['start_date'].astype(str).str[:10]
 
-date = (datetime.date.today() - datetime.timedelta(days=15)).strftime("%Y-%m-%d")
+date = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
 # today = pd.Timestamp("today").strftime("%Y-%m-%d").replace("-", "")
 results_df = results_df[results_df['start_date'] >= date]
 
-results_df.to_csv('data.csv')
+geo_json = to_geojson(df=results_df, lat='latitude', lon='longitude', properties=['start_date', 'start_time', 'crimename2', 'crimename3'])
+write_geojson(geo_json, filename='data.geojson', indent=4)
 
+
+
+
+
+# Display data on Google Maps
+gmaps = googlemaps.Client(key='AIzaSyDrGu2gZ1HQ0r1Z930POH1Hi9O6ZctuVd4')
+
+
+
+# Testing out gmplot
+#gmap = gmplot.GoogleMapPlotter(results_df.loc[1, 'latitude'], results_df.loc[1, 'longitude'], 10, apikey='AIzaSyDrGu2gZ1HQ0r1Z930POH1Hi9O6ZctuVd4')
+#gmap = gmplot.GoogleMapPlotter(0, 0, 10, apikey='AIzaSyDrGu2gZ1HQ0r1Z930POH1Hi9O6ZctuVd4')
+#gmap.draw('map.html')
