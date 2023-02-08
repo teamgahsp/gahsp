@@ -32,7 +32,7 @@ results_df = pd.DataFrame.from_records(results)
 results_df.insert(1, "start_time", results_df['start_date'].astype(str).str[11:], True)
 results_df['start_date'] = results_df['start_date'].astype(str).str[:10]
 
-date = (datetime.date.today() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
+date = (datetime.date.today() - datetime.timedelta(days=3)).strftime("%Y-%m-%d")
 # today = pd.Timestamp("today").strftime("%Y-%m-%d").replace("-", "")
 results_df = results_df[results_df['start_date'] >= date]
 
@@ -40,8 +40,9 @@ geo_json = to_geojson(df=results_df, lat='latitude', lon='longitude', properties
 for feature in geo_json["features"]:
     for coord in range(0,2):
         feature["geometry"]["coordinates"][coord] = float(feature["geometry"]["coordinates"][coord])
-f = open("data.js", "w")
 
+
+f = open("data.js", "w")
 f.write("eqfeed_callback(" + str(geo_json) + ");")
 f.close()
 
