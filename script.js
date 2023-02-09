@@ -3,7 +3,7 @@ var map;
 function createMap() {
     var options = {
         center: {lat: 39.1547, lng: -77.2405},
-        zoom: 12
+        zoom: 10
     };
 
     map = new google.maps.Map(document.getElementById("map"), options);
@@ -11,8 +11,40 @@ function createMap() {
     var script = document.createElement('script');
     script.src = "data.js";
     document.getElementsByTagName('head')[0].appendChild(script);
-
+    
     //search bar
+    input = document.getElementById("pac-input");
+    const searchBox = new google.maps.places.SearchBox(input);
+    map.controls[google.maps.ControlPosition.TOP_LEFT].push(input);
+    
+    map.addListener("bounds_changed", () => {
+      searchBox.setBounds(map.getBounds());
+    });
+
+    searchBox.addListener("places_changed", () => {
+      const places = searchBox.getPlaces();
+      if (places.length == 0) {
+        return;
+      }
+      map.setCenter(places[0].geometry.location);
+      map.setZoom(15);
+      // const bounds = new google.maps.LatLngBounds();
+
+      // places.forEach((place) => {
+      //   if (!place.geometry || !place.geometry.location) {
+      //     console.log("Returned place contains no geometry");
+      //     return;
+      //   }
+
+      //   if (place.geometry.viewport) {
+      //     // Only geocodes have viewport.
+      //     bounds.union(place.geometry.viewport);
+      //   } else {
+      //     bounds.extend(place.geometry.location);
+      //   }
+      // });
+      // map.fitBounds(bounds);
+    });
 
 }
 
@@ -33,12 +65,14 @@ function eqfeed_callback (results) {
 
         marker.addListener("click", () => {
           infoWindow.close();
-          infoWindow.setContent("<p>" + info.crimename2 + "</p>" + 
-                                "<p>" + info.crimename3 + "</p>");
+          infoWindow.setContent("<p><b>Date occurred: </b>" + info.start_date + "</p>" +
+                                "<p><b>Time occurred: </b>" + info.start_time + "</p>" + 
+                                "<p><b>Crime type: </b>" + info.crimename2 + "</p>" + 
+                                "<p><b>Location type: </b>" + info.place + "</p>");
           infoWindow.open(marker.map, marker);
         })
     }
 }
 
-window.initMap = initMap;
-window.eqfeed_callback = eqfeed_callback;
+window.createMap = createMap;
+//window.eqfeed_callback = eqfeed_callback;

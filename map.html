@@ -8,12 +8,19 @@
 </head>
 
 <body>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDrGu2gZ1HQ0r1Z930POH1Hi9O6ZctuVd4&callback=createMap" defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDrGu2gZ1HQ0r1Z930POH1Hi9O6ZctuVd4&libraries=places&callback=createMap" defer></script>
     <script src="script.js"></script>
 
     <div>
         <h1>MoCo Crime Map</h1>
+        <input
+        id="pac-input"
+        class="controls"
+        type="text"
+        placeholder="Search Box"
+        />
         <div id="map"></div>
     </div>
+
 </body>
 </html>
