@@ -23,7 +23,7 @@ client = Socrata("data.montgomerycountymd.gov",
 
 # Returned as JSON from API / converted to Python list of
 # dictionaries by sodapy.
-results = client.get("icn6-v9z3", limit = 2000, select = "start_date, crimename2, crimename3, latitude, longitude, place", order = "start_date DESC")
+results = client.get("icn6-v9z3", limit = 199, select = "start_date, crimename2, crimename3, latitude, longitude, place", order = "start_date DESC")
 
 # Convert to pandas DataFrame
 results_df = pd.DataFrame.from_records(results)
@@ -32,7 +32,7 @@ results_df = pd.DataFrame.from_records(results)
 results_df.insert(1, "start_time", results_df['start_date'].astype(str).str[11:], True)
 results_df['start_date'] = results_df['start_date'].astype(str).str[:10]
 
-date = (datetime.date.today() - datetime.timedelta(days=3)).strftime("%Y-%m-%d")
+date = (datetime.date.today() - datetime.timedelta(days=10)).strftime("%Y-%m-%d")
 # today = pd.Timestamp("today").strftime("%Y-%m-%d").replace("-", "")
 results_df = results_df[results_df['start_date'] >= date]
 
@@ -53,7 +53,7 @@ f.close()
 
 
 # Display data on Google Maps
-gmaps = googlemaps.Client(key='AIzaSyDrGu2gZ1HQ0r1Z930POH1Hi9O6ZctuVd4')
+# gmaps = googlemaps.Client(key='AIzaSyDrGu2gZ1HQ0r1Z930POH1Hi9O6ZctuVd4')
 
 
 

@@ -1,3 +1,20 @@
-#map {
-    height: 500px;
+#markerMap {
+    height: 600px;
+    width: 600px;
 }
+
+#crimeRateHeatMap {
+    height: 600px;
+    width: 600px;
+}
+
+#pac-input {
+    margin-right: 50px;
+    padding: 0 5px 0 13px;
+    width: 200px;
+    height: 30px;
+}
+
+.inline-block-child {
+    display: inline-block;
+  }
