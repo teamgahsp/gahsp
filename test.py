@@ -13,7 +13,7 @@ from pandas_geojson import to_geojson
 import datetime
 
 offenseB = "90" # Offense B codes start with 90. 
-offenseAWeight = 2
+offenseAWeight = 5
 offenseBWeight = 1
 
 def categorize(row):

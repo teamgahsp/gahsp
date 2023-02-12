@@ -44,6 +44,12 @@ function createMarkerMap(markerMap) {
         return;
       }
       markerMap.setCenter(places[0].geometry.location);
+      new google.maps.Marker({
+        position: places[0].geometry.location,
+        map: markerMap,
+        icon: {url: "http://maps.google.com/mapfiles/ms/icons/green-dot.png", scaledSize: new google.maps.Size(50, 50)},
+        title: places[0].name
+      })
       markerMap.setZoom(15);
     });
 
@@ -93,10 +99,18 @@ function eqfeed_callback (results) {
         const info = results.features[i].properties;
         weightedCoords.push({location: latLng, weight: info.weight});
 
+        var url = (info.weight == 1)? "http://maps.google.com/mapfiles/ms/icons/blue-dot.png" : "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
+
+        const icon = {
+          url: url, // url
+          scaledSize: new google.maps.Size(40, 40), // scaled size
+      };
+
         const marker = new google.maps.Marker({
           position: latLng,
           map: markerMap,
-          title: 'Crime type: ' + info.NIBRS_CrimeName + '\n' + info.Offense_Name
+          title: 'Crime type: ' + info.NIBRS_CrimeName + '\n' + info.Offense_Name,
+          icon: icon
         });
 
         marker.addListener("click", () => {
