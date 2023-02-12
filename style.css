@@ -1,9 +1,15 @@
 #markerMap {
     height: 600px;
-    width: 600px;
+    width: 1200px;
+    padding-bottom: 1cm;
 }
 
 #crimeRateHeatMap {
+    height: 600px;
+    width: 600px;
+}
+
+#crimeWeightHeatMap {
     height: 600px;
     width: 600px;
 }

@@ -1,24 +1,27 @@
-var markerMap, crimeRateHeatMap
-var crimeCoords = [], featureLayer;
-var boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g";
+var markerMap, crimeRateHeatMap, crimeWeightHeatMap, featureLayer;
+var crimeCoords = [], weightedCoords = [];
+const boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g";
 
 function createMap() {
 
-    markerMap = new google.maps.Map(document.getElementById("markerMap"), {
-        center: {lat: 39.15, lng: -77.2},
+    options = {
+      center: {lat: 39.15, lng: -77.2},
         zoom: 10.25,
         mapId: "838b9a3d29242a9c"
-    });
+    };
 
-    crimeRateHeatMap = new google.maps.Map(document.getElementById("crimeRateHeatMap"), {
-      center: {lat: 39.15, lng: -77.2},
-      zoom: 10.25,
-      mapId: "838b9a3d29242a9c"
-    });
+    markerMap = new google.maps.Map(document.getElementById("markerMap"), options);
+
+    crimeRateHeatMap = new google.maps.Map(document.getElementById("crimeRateHeatMap"), options);
+
+    crimeWeightHeatMap = new google.maps.Map(document.getElementById("crimeWeightHeatMap"), options);
+
     addBoundary(markerMap);
     createMarkerMap(markerMap);
-    createHeatMap(crimeRateHeatMap);
+    createHeatMap(crimeRateHeatMap, crimeCoords);
+    createHeatMap(crimeWeightHeatMap, weightedCoords);
     addBoundary(crimeRateHeatMap);
+    addBoundary(crimeWeightHeatMap);
 }
 
 function createMarkerMap(markerMap) {
@@ -46,10 +49,14 @@ function createMarkerMap(markerMap) {
 
 }
 
-function createHeatMap(map) {
+function createHeatMap(map, data) {
     var heatMap = new google.maps.visualization.HeatmapLayer({
-      data: crimeCoords
+      data: data
     });
+    const options = {
+      radius: 13
+    };
+    heatMap.setOptions(options);
     heatMap.setMap(map);
 }
 
@@ -84,18 +91,19 @@ function eqfeed_callback (results) {
         crimeCoords.push(latLng);
 
         const info = results.features[i].properties;
+        weightedCoords.push({location: latLng, weight: info.weight});
 
         const marker = new google.maps.Marker({
           position: latLng,
           map: markerMap,
-          title: 'Crime type: ' + info.crimename2 + '\n' + info.crimename3
+          title: 'Crime type: ' + info.NIBRS_CrimeName + '\n' + info.Offense_Name
         });
 
         marker.addListener("click", () => {
           infoWindow.close();
           infoWindow.setContent("<p><b>Date occurred: </b>" + info.start_date + "</p>" +
                                 "<p><b>Time occurred: </b>" + info.start_time + "</p>" + 
-                                "<p><b>Crime type: </b>" + info.crimename2 + "</p>" + 
+                                "<p><b>Crime type: </b>" + info.NIBRS_CrimeName + "</p>" + 
                                 "<p><b>Location type: </b>" + info.place + "</p>");
           infoWindow.open(marker.map, marker);
         })
