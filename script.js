@@ -1,27 +1,33 @@
 var markerMap, crimeRateHeatMap, crimeWeightHeatMap, featureLayer;
 var crimeCoords = [], weightedCoords = [];
 const boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g";
+var groupAMap, groupBMap, groupACoords = [], groupBCoords = [];
 
 function createMap() {
-
     options = {
       center: {lat: 39.15, lng: -77.2},
-        zoom: 10.25,
+        zoom: 10.5,
         mapId: "838b9a3d29242a9c"
     };
 
     markerMap = new google.maps.Map(document.getElementById("markerMap"), options);
-
     crimeRateHeatMap = new google.maps.Map(document.getElementById("crimeRateHeatMap"), options);
-
     crimeWeightHeatMap = new google.maps.Map(document.getElementById("crimeWeightHeatMap"), options);
+    groupAMap = new google.maps.Map(document.getElementById("groupAMap"), options);
+    groupBMap = new google.maps.Map(document.getElementById("groupBMap"), options);
 
     addBoundary(markerMap);
     createMarkerMap(markerMap);
+
     createHeatMap(crimeRateHeatMap, crimeCoords);
     createHeatMap(crimeWeightHeatMap, weightedCoords);
+    createHeatMap(groupAMap, groupACoords);
+    createHeatMap(groupBMap, groupBCoords);
+
     addBoundary(crimeRateHeatMap);
     addBoundary(crimeWeightHeatMap);
+    addBoundary(groupAMap);
+    addBoundary(groupBMap);
 }
 
 function createMarkerMap(markerMap) {
@@ -60,7 +66,9 @@ function createHeatMap(map, data) {
       data: data
     });
     const options = {
-      radius: 13
+      radius: 18,
+      map: map,
+      opacity: 0.7
     };
     heatMap.setOptions(options);
     heatMap.setMap(map);
@@ -98,6 +106,11 @@ function eqfeed_callback (results) {
 
         const info = results.features[i].properties;
         weightedCoords.push({location: latLng, weight: info.weight});
+        if(info.weight == 1) {
+          groupBCoords.push(latLng);
+        } else {
+          groupACoords.push(latLng);
+        }
 
         var url = (info.weight == 1)? "http://maps.google.com/mapfiles/ms/icons/blue-dot.png" : "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
 

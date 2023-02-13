@@ -6,12 +6,24 @@
 
 #crimeRateHeatMap {
     height: 600px;
-    width: 600px;
+    width: 640px;
+    padding-bottom: 1cm;
 }
 
 #crimeWeightHeatMap {
     height: 600px;
-    width: 600px;
+    width: 640px;
+    padding-bottom: 1cm;
+}
+
+#groupAMap {
+    height: 600px;
+    width: 640px;
+}
+
+#groupBMap {
+    height: 600px;
+    width: 640px;
 }
 
 #pac-input {

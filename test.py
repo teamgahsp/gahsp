@@ -8,12 +8,12 @@
 
 import pandas as pd
 from sodapy import Socrata
-from pandas_geojson import to_geojson
+from pandas_geojson import to_geojson, write_geojson
 #import gmplot
 import datetime
 
 offenseB = "90" # Offense B codes start with 90. 
-offenseAWeight = 5
+offenseAWeight = 2
 offenseBWeight = 1
 
 def categorize(row):
@@ -56,7 +56,7 @@ geo_json = to_geojson(df=results_df, lat='latitude', lon='longitude', properties
 for feature in geo_json["features"]:
     for coord in range(0,2):
         feature["geometry"]["coordinates"][coord] = float(feature["geometry"]["coordinates"][coord])
-
+#write_geojson(geo_json, "data_geojson.geojson", indent=4)
 f = open("data.js", "w")
 f.write("eqfeed_callback(" + str(geo_json) + ");")
 f.close()
