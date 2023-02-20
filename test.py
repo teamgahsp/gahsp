@@ -34,7 +34,7 @@ client = Socrata("data.montgomerycountymd.gov",
 
 # Returned as JSON from API / converted to Python list of
 # dictionaries by sodapy.
-results = client.get("icn6-v9z3", limit = 199, select = "nibrs_code, start_date, crimename2, crimename3, latitude, longitude, place", order = "start_date DESC")
+results = client.get("icn6-v9z3", limit = 1000, select = "nibrs_code, start_date, crimename2, crimename3, latitude, longitude, place", order = "start_date DESC")
 
 # Convert to pandas DataFrame
 results_df = pd.DataFrame.from_records(results)
@@ -44,7 +44,7 @@ results_df.insert(1, "start_time", results_df['start_date'].astype(str).str[11:]
 results_df['start_date'] = results_df['start_date'].astype(str).str[:10]
 
 # find today's date and collect crimes from days=x days ago to today.
-date = (datetime.date.today() - datetime.timedelta(days=10)).strftime("%Y-%m-%d")
+date = (datetime.date.today() - datetime.timedelta(days=7)).strftime("%Y-%m-%d")
 # today = pd.Timestamp("today").strftime("%Y-%m-%d").replace("-", "")
 results_df = results_df[results_df['start_date'] >= date]
 

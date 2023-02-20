@@ -1,13 +1,14 @@
 var markerMap, crimeRateHeatMap, crimeWeightHeatMap, featureLayer;
 var crimeCoords = [], weightedCoords = [];
-const boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g";
+const boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g", metersInOneMile = 1609.34;
 var groupAMap, groupBMap, groupACoords = [], groupBCoords = [];
 
 function createMap() {
     options = {
-      center: {lat: 39.15, lng: -77.2},
+        center: {lat: 39.15, lng: -77.2},
         zoom: 10.5,
-        mapId: "838b9a3d29242a9c"
+        mapId: "838b9a3d29242a9c",
+        gestureHandling: "greedy",
     };
 
     markerMap = new google.maps.Map(document.getElementById("markerMap"), options);
@@ -34,29 +35,61 @@ function createMarkerMap(markerMap) {
     var script = document.createElement('script');
     script.src = "data.js";
     document.getElementsByTagName('head')[0].appendChild(script);
+
+    //reset center and zoom button
+    button = document.getElementById("reset-map-button");
+    markerMap.controls[google.maps.ControlPosition.TOP_CENTER].push(button);
+    button.addEventListener("click", () => {
+      markerMap.setCenter({lat: 39.15, lng: -77.2});
+      markerMap.setZoom(10.5);
+    });
     
     //search bar
     input = document.getElementById("pac-input");
-    const searchBox = new google.maps.places.SearchBox(input);
     markerMap.controls[google.maps.ControlPosition.TOP_RIGHT].push(input);
     
+    const searchBox = new google.maps.places.SearchBox(input);
     markerMap.addListener("bounds_changed", () => {
       searchBox.setBounds(markerMap.getBounds());
     });
+
+    let prevItems = [];
 
     searchBox.addListener("places_changed", () => {
       const places = searchBox.getPlaces();
       if (places.length == 0) {
         return;
       }
+
+      prevItems.forEach((item) => {
+        item.setMap(null);
+      });
+      prevItems = [];
+
       markerMap.setCenter(places[0].geometry.location);
-      new google.maps.Marker({
+
+      marker = new google.maps.Marker({
         position: places[0].geometry.location,
         map: markerMap,
         icon: {url: "http://maps.google.com/mapfiles/ms/icons/green-dot.png", scaledSize: new google.maps.Size(50, 50)},
         title: places[0].name
       })
-      markerMap.setZoom(15);
+
+      prevItems.push(marker);
+
+      circle = new google.maps.Circle({
+        strokeColor: "#FF0000",
+        strokeOpacity: 0.7,
+        strokeWeight: 2,
+        fillColor: "#FF0000",
+        fillOpacity: 0.35,
+        map: markerMap,
+        center: marker.position,
+        radius: metersInOneMile * 3,
+      });
+
+      prevItems.push(circle);
+      markerMap.setZoom(13);
     });
 
 }
@@ -66,7 +99,7 @@ function createHeatMap(map, data) {
       data: data
     });
     const options = {
-      radius: 18,
+      radius: 10,
       map: map,
       opacity: 0.7
     };
@@ -108,11 +141,11 @@ function eqfeed_callback (results) {
         weightedCoords.push({location: latLng, weight: info.weight});
         if(info.weight == 1) {
           groupBCoords.push(latLng);
+          url = "http://maps.google.com/mapfiles/ms/icons/blue-dot.png";
         } else {
           groupACoords.push(latLng);
+          url = "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
         }
-
-        var url = (info.weight == 1)? "http://maps.google.com/mapfiles/ms/icons/blue-dot.png" : "http://maps.google.com/mapfiles/ms/icons/red-dot.png"
 
         const icon = {
           url: url, // url
