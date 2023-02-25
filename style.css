@@ -1,3 +1,7 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 #markerMap {
     height: 600px;
     width: 1200px;
@@ -26,11 +30,13 @@
     width: 640px;
 }
 
-#pac-input {
+#search-bar {
     margin-right: 50px;
     padding: 0 5px 0 13px;
-    width: 200px;
+    width: 300px;
     height: 30px;
+    border-width: 2px;
+    border-radius: 2px;
 }
 
 #pac-input:hover {
@@ -39,17 +45,31 @@
 
 #reset-map-button {
     margin-right: 50px;
-    padding: 0 5px 0 5px;
+    padding: 0 5px 3px 5px;
     width: 150px;
-    height: 25px;
+    height: 30px;
     background-color:rgb(241, 229, 206);
     border-radius: 6px;
-    font-size: 14px;
-    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
     cursor: pointer;
 }
 #reset-map-button:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#change-radius {
+    padding: 2px 5px 5px 5px;
+    background-color:rgb(241, 229, 206);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    font-size: medium;
+}
+
+#radius {
+    width: 100px;
+    margin-top: 3px;
+    font-size:14px;
 }
 
 .inline-block-child {

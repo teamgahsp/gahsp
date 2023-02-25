@@ -1,6 +1,6 @@
 var markerMap, crimeRateHeatMap, crimeWeightHeatMap, featureLayer;
 var crimeCoords = [], weightedCoords = [];
-const boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g", metersInOneMile = 1609.34;
+const boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g", metersInOneMile = 1609.34, defaultRadius = 3, milesInLatLine = 69, milesInLngLine = 55;
 var groupAMap, groupBMap, groupACoords = [], groupBCoords = [];
 
 function createMap() {
@@ -36,24 +36,32 @@ function createMarkerMap(markerMap) {
     script.src = "data.js";
     document.getElementsByTagName('head')[0].appendChild(script);
 
-    //reset center and zoom button
+    let prevItems = [];
+
+    //reset center button
     button = document.getElementById("reset-map-button");
     markerMap.controls[google.maps.ControlPosition.TOP_CENTER].push(button);
+
     button.addEventListener("click", () => {
+      prevItems.forEach((item) => {
+        item.setMap(null);
+      });
+      prevItems = [];
       markerMap.setCenter({lat: 39.15, lng: -77.2});
       markerMap.setZoom(10.5);
     });
+
+    // change radius
+    markerMap.controls[google.maps.ControlPosition.TOP_CENTER].push(document.getElementById("change-radius"));
     
     //search bar
-    input = document.getElementById("pac-input");
+    input = document.getElementById("search-bar");
     markerMap.controls[google.maps.ControlPosition.TOP_RIGHT].push(input);
     
     const searchBox = new google.maps.places.SearchBox(input);
     markerMap.addListener("bounds_changed", () => {
       searchBox.setBounds(markerMap.getBounds());
     });
-
-    let prevItems = [];
 
     searchBox.addListener("places_changed", () => {
       const places = searchBox.getPlaces();
@@ -77,6 +85,9 @@ function createMarkerMap(markerMap) {
 
       prevItems.push(marker);
 
+      radius = document.getElementById("radius").value;
+      radius = (radius >= 0 && radius <= 50) ? radius : defaultRadius;
+
       circle = new google.maps.Circle({
         strokeColor: "#FF0000",
         strokeOpacity: 0.7,
@@ -85,11 +96,19 @@ function createMarkerMap(markerMap) {
         fillOpacity: 0.35,
         map: markerMap,
         center: marker.position,
-        radius: metersInOneMile * 3,
+        radius: metersInOneMile * radius,
       });
 
       prevItems.push(circle);
-      markerMap.setZoom(13);
+
+      bounds = new google.maps.LatLngBounds();
+        
+      southwest = {lat: marker.position.lat() - radius/milesInLatLine, lng: marker.position.lng() - radius/milesInLngLine};
+      northeast = {lat: marker.position.lat() + radius/milesInLatLine, lng: marker.position.lng() + radius/milesInLngLine};
+      bounds.extend(southwest);
+      bounds.extend(northeast);
+      markerMap.fitBounds(bounds);
+      
     });
 
 }
