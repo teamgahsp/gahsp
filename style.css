@@ -4,7 +4,7 @@
 
 #markerMap {
     height: 600px;
-    width: 1200px;
+    width: 1000px;
     padding-bottom: 1cm;
 }
 
@@ -39,7 +39,7 @@
     border-radius: 2px;
 }
 
-#pac-input:hover {
+#search-bar:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
 
@@ -70,6 +70,8 @@
     width: 100px;
     margin-top: 3px;
     font-size:14px;
+    margin-left: 3px;
+    margin-right: 10px;
 }
 
 .inline-block-child {

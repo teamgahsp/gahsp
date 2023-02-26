@@ -1,12 +1,14 @@
 var markerMap, crimeRateHeatMap, crimeWeightHeatMap, featureLayer;
 var crimeCoords = [], weightedCoords = [];
-const boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g", metersInOneMile = 1609.34, defaultRadius = 3, milesInLatLine = 69, milesInLngLine = 55;
+// https://developers.google.com/maps/documentation/javascript/examples/places-placeid-finder#maps_places_placeid_finder-javascript
+const boundaryLocation = "ChIJh6O4gzUytokRc2ipdwYZC3g", metersInOneMile = 1609.34, 
+      defaultRadius = 3, defaultZoom = 10.5, milesInLatLine = 69, milesInLngLine = 55;
 var groupAMap, groupBMap, groupACoords = [], groupBCoords = [];
 
 function createMap() {
     options = {
         center: {lat: 39.15, lng: -77.2},
-        zoom: 10.5,
+        zoom: defaultZoom,
         mapId: "838b9a3d29242a9c",
         gestureHandling: "greedy",
     };
@@ -36,23 +38,24 @@ function createMarkerMap(markerMap) {
     script.src = "data.js";
     document.getElementsByTagName('head')[0].appendChild(script);
 
-    let prevItems = [];
+    let prevMarkers = [], prevCircles = [];
 
     //reset center button
     button = document.getElementById("reset-map-button");
-    markerMap.controls[google.maps.ControlPosition.TOP_CENTER].push(button);
+    markerMap.controls[google.maps.ControlPosition.TOP_LEFT].push(button);
 
     button.addEventListener("click", () => {
-      prevItems.forEach((item) => {
-        item.setMap(null);
-      });
-      prevItems = [];
+      clearItems([prevMarkers, prevCircles]);
       markerMap.setCenter({lat: 39.15, lng: -77.2});
-      markerMap.setZoom(10.5);
+      markerMap.setZoom(defaultZoom);
     });
 
     // change radius
     markerMap.controls[google.maps.ControlPosition.TOP_CENTER].push(document.getElementById("change-radius"));
+    submitRadius = document.getElementById("submit-radius");
+    submitRadius.addEventListener("click", () => {
+      setRadius(prevCircles);
+    })
     
     //search bar
     input = document.getElementById("search-bar");
@@ -69,12 +72,10 @@ function createMarkerMap(markerMap) {
         return;
       }
 
-      prevItems.forEach((item) => {
-        item.setMap(null);
-      });
-      prevItems = [];
+      clearItems([prevMarkers, prevCircles]);
 
       markerMap.setCenter(places[0].geometry.location);
+      markerMap.setZoom(defaultZoom);
 
       marker = new google.maps.Marker({
         position: places[0].geometry.location,
@@ -83,31 +84,7 @@ function createMarkerMap(markerMap) {
         title: places[0].name
       })
 
-      prevItems.push(marker);
-
-      radius = document.getElementById("radius").value;
-      radius = (radius >= 0 && radius <= 50) ? radius : defaultRadius;
-
-      circle = new google.maps.Circle({
-        strokeColor: "#FF0000",
-        strokeOpacity: 0.7,
-        strokeWeight: 2,
-        fillColor: "#FF0000",
-        fillOpacity: 0.35,
-        map: markerMap,
-        center: marker.position,
-        radius: metersInOneMile * radius,
-      });
-
-      prevItems.push(circle);
-
-      bounds = new google.maps.LatLngBounds();
-        
-      southwest = {lat: marker.position.lat() - radius/milesInLatLine, lng: marker.position.lng() - radius/milesInLngLine};
-      northeast = {lat: marker.position.lat() + radius/milesInLatLine, lng: marker.position.lng() + radius/milesInLngLine};
-      bounds.extend(southwest);
-      bounds.extend(northeast);
-      markerMap.fitBounds(bounds);
+      prevMarkers.push(marker);
       
     });
 
@@ -144,6 +121,46 @@ function addBoundary(map) {
         return featureStyleOptions;
       }
     };
+}
+
+function setRadius(prevCircles) {
+  clearItems([prevCircles]);
+
+  radius = document.getElementById("radius").value;
+  radius = (radius > 0 && radius <= 50) ? radius : defaultRadius;
+
+  circle = new google.maps.Circle({
+    strokeColor: "#FF0000",
+    strokeOpacity: 0.7,
+    strokeWeight: 2,
+    fillColor: "#FF0000",
+    fillOpacity: 0.35,
+    map: markerMap,
+    center: markerMap.getCenter(),
+    radius: metersInOneMile * radius,
+  });
+
+  prevCircles.push(circle);
+
+  bounds = new google.maps.LatLngBounds();
+    
+  southwest = {lat: markerMap.getCenter().lat() - radius/milesInLatLine, 
+               lng: markerMap.getCenter().lng() - radius/milesInLngLine};
+  northeast = {lat: markerMap.getCenter().lat() + radius/milesInLatLine, 
+               lng: markerMap.getCenter().lng() + radius/milesInLngLine};
+  bounds.extend(southwest);
+  bounds.extend(northeast);
+  
+  markerMap.fitBounds(bounds);
+}
+
+function clearItems(items) {
+  items.forEach((group) => {
+    group.forEach((item) => {
+      item.setMap(null);
+    })
+    group = [];
+  })
 }
 
 //display markers
