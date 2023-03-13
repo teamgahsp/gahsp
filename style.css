@@ -3,7 +3,7 @@
 }
 
 #markerMap {
-    height: 600px;
+    height: 610px;
     width: 1000px;
     padding-bottom: 1cm;
 }
@@ -32,7 +32,7 @@
 
 #search-bar {
     margin-right: 50px;
-    padding: 0 5px 0 13px;
+    padding: 0 3px 0 13px;
     width: 300px;
     height: 30px;
     border-width: 2px;
@@ -73,6 +73,24 @@
     margin-left: 3px;
     margin-right: 10px;
 }
+
+#custom-radius {
+    background-color:rgb(241, 229, 206);
+    font-size: medium;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    padding: 2px 5px 5px 5px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+#radius-slider {
+    -webkit-appearance: slider-vertical;
+    height: 200px;
+    width: 10px;
+}
+
 
 .inline-block-child {
     display: inline-block;

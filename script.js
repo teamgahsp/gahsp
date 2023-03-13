@@ -22,6 +22,7 @@ function createMap() {
     addBoundary(markerMap);
     createMarkerMap(markerMap);
 
+
     createHeatMap(crimeRateHeatMap, crimeCoords);
     createHeatMap(crimeWeightHeatMap, weightedCoords);
     createHeatMap(groupAMap, groupACoords);
@@ -85,8 +86,22 @@ function createMarkerMap(markerMap) {
       })
 
       prevMarkers.push(marker);
-      
+      circle = new google.maps.Circle({
+        strokeColor: "#FF0000",
+        strokeOpacity: 0.7,
+        strokeWeight: 2,
+        fillColor: "#FF0000",
+        fillOpacity: 0.35,
+        map: markerMap,
+        center: markerMap.getCenter(),
+      });
+      prevCircles.push(circle);
+      setSlider(circle);
     });
+
+    //set slider
+    markerMap.controls[google.maps.ControlPosition.RIGHT_CENTER].push(document.getElementById("custom-radius"));
+    setSlider(null);
 
 }
 
@@ -204,6 +219,29 @@ function eqfeed_callback (results) {
           infoWindow.open(marker.map, marker);
         })
     }
+}
+
+function setSlider(circle) {
+  v = document.getElementById("radius-slider");
+  v.oninput = function() {
+    if (circle) {
+      circle.setCenter(markerMap.getCenter());
+      circle.setRadius(v.value * metersInOneMile);
+      southwest = {lat: markerMap.getCenter().lat() - v.value/milesInLatLine, 
+                   lng: markerMap.getCenter().lng() - v.value/milesInLngLine};
+      northeast = {lat: markerMap.getCenter().lat() + v.value/milesInLatLine, 
+                  lng: markerMap.getCenter().lng() + v.value/milesInLngLine};
+
+      bounds = new google.maps.LatLngBounds();
+      bounds.extend(southwest);
+      bounds.extend(northeast);
+  
+    markerMap.fitBounds(bounds);
+    }
+
+      document.getElementById("range-value").innerText = v.value;
+  }
+    
 }
 
 window.createMap = createMap;
