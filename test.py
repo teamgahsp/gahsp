@@ -34,7 +34,8 @@ client = Socrata("data.montgomerycountymd.gov",
 
 # Returned as JSON from API / converted to Python list of
 # dictionaries by sodapy.
-results = client.get("icn6-v9z3", limit = 1000, select = "nibrs_code, start_date, crimename2, crimename3, latitude, longitude, place", order = "start_date DESC")
+results = client.get("icn6-v9z3", limit = 1000, order = "start_date DESC",
+                     select = "nibrs_code, start_date, crimename2, crimename3, latitude, longitude, place")
 
 # Convert to pandas DataFrame
 results_df = pd.DataFrame.from_records(results)
@@ -52,7 +53,8 @@ results_df = results_df.rename(columns={"crimename2":"NIBRS_CrimeName", "crimena
 
 results_df = assignWeights(results_df)
 
-geo_json = to_geojson(df=results_df, lat='latitude', lon='longitude', properties=['start_date', 'start_time', 'NIBRS_CrimeName', 'Offense_Name', 'place', 'weight'])
+geo_json = to_geojson(df=results_df, lat='latitude', lon='longitude', 
+                      properties=['start_date', 'start_time', 'NIBRS_CrimeName', 'Offense_Name', 'place', 'weight'])
 for feature in geo_json["features"]:
     for coord in range(0,2):
         feature["geometry"]["coordinates"][coord] = float(feature["geometry"]["coordinates"][coord])

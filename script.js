@@ -53,10 +53,7 @@ function createMarkerMap(markerMap) {
 
     // change radius
     markerMap.controls[google.maps.ControlPosition.TOP_CENTER].push(document.getElementById("change-radius"));
-    submitRadius = document.getElementById("submit-radius");
-    submitRadius.addEventListener("click", () => {
-      setRadius(prevCircles);
-    })
+
     
     //search bar
     input = document.getElementById("search-bar");
@@ -82,7 +79,7 @@ function createMarkerMap(markerMap) {
         position: places[0].geometry.location,
         map: markerMap,
         icon: {url: "http://maps.google.com/mapfiles/ms/icons/green-dot.png", scaledSize: new google.maps.Size(50, 50)},
-        title: places[0].name
+        title: places[0].name,
       })
 
       prevMarkers.push(marker);
@@ -93,80 +90,52 @@ function createMarkerMap(markerMap) {
         fillColor: "#FF0000",
         fillOpacity: 0.35,
         map: markerMap,
-        center: markerMap.getCenter(),
       });
+      circle.bindTo('center', marker, 'position');
       prevCircles.push(circle);
-      setSlider(circle);
+      changeRadius(circle);
+
     });
 
     //set slider
     markerMap.controls[google.maps.ControlPosition.RIGHT_CENTER].push(document.getElementById("custom-radius"));
-    setSlider(null);
+    slider = document.getElementById("radius-slider");
+    slider.oninput = function() {
+    document.getElementById("range-value").innerText = slider.value;
+  }
 
 }
 
-function createHeatMap(map, data) {
-    var heatMap = new google.maps.visualization.HeatmapLayer({
-      data: data
-    });
-    const options = {
-      radius: 10,
-      map: map,
-      opacity: 0.7
-    };
-    heatMap.setOptions(options);
-    heatMap.setMap(map);
-}
-
-function addBoundary(map) {
-    featureLayer = map.getFeatureLayer("ADMINISTRATIVE_AREA_LEVEL_2");
-    //region lookup
-    const featureStyleOptions = {
-      strokeColor: "#810FCB",
-      strokeOpacity: 1.0,
-      strokeWeight: 2.0,
-      fillColor: "#810FCB",
-      fillOpacity: 0.2,
-    };
-    
-    // Apply the style to MoCo's boundaries.
-    //@ts-ignore
-    featureLayer.style = (options) => {
-      if (options.feature.placeId == boundaryLocation) {
-        return featureStyleOptions;
-      }
-    };
-}
-
-function setRadius(prevCircles) {
-  clearItems([prevCircles]);
-
-  radius = document.getElementById("radius").value;
-  radius = (radius > 0 && radius <= 50) ? radius : defaultRadius;
-
-  circle = new google.maps.Circle({
-    strokeColor: "#FF0000",
-    strokeOpacity: 0.7,
-    strokeWeight: 2,
-    fillColor: "#FF0000",
-    fillOpacity: 0.35,
-    map: markerMap,
-    center: markerMap.getCenter(),
-    radius: metersInOneMile * radius,
-  });
-
-  prevCircles.push(circle);
-
+function setRadius(circle, radius) {
+  circle.setRadius(metersInOneMile * radius);
   bounds = new google.maps.LatLngBounds();
     
-  southwest = {lat: markerMap.getCenter().lat() - radius/milesInLatLine, 
-               lng: markerMap.getCenter().lng() - radius/milesInLngLine};
-  northeast = {lat: markerMap.getCenter().lat() + radius/milesInLatLine, 
-               lng: markerMap.getCenter().lng() + radius/milesInLngLine};
+  southwest = {lat: circle.getCenter().lat() - radius/milesInLatLine, 
+               lng: circle.getCenter().lng() - radius/milesInLngLine};
+  northeast = {lat: circle.getCenter().lat() + radius/milesInLatLine, 
+               lng: circle.getCenter().lng() + radius/milesInLngLine};
   bounds.extend(southwest);
   bounds.extend(northeast);
   
   markerMap.fitBounds(bounds);
+}
+
+function changeRadius(circle) {
+  submitRadius = document.getElementById("submit-radius");
+  submitRadius.addEventListener("click", () => {
+    radius = document.getElementById("radius").value;
+    radius = (radius > 0 && radius <= 50) ? radius : defaultRadius;
+
+    setRadius(circle, radius);
+  })
+
+
+  slider = document.getElementById("radius-slider");
+  slider.oninput = function() {
+    setRadius(circle, slider.value);
+    document.getElementById("range-value").innerText = slider.value;
+  }
+
 }
 
 function clearItems(items) {
@@ -221,27 +190,37 @@ function eqfeed_callback (results) {
     }
 }
 
-function setSlider(circle) {
-  v = document.getElementById("radius-slider");
-  v.oninput = function() {
-    if (circle) {
-      circle.setCenter(markerMap.getCenter());
-      circle.setRadius(v.value * metersInOneMile);
-      southwest = {lat: markerMap.getCenter().lat() - v.value/milesInLatLine, 
-                   lng: markerMap.getCenter().lng() - v.value/milesInLngLine};
-      northeast = {lat: markerMap.getCenter().lat() + v.value/milesInLatLine, 
-                  lng: markerMap.getCenter().lng() + v.value/milesInLngLine};
+function createHeatMap(map, data) {
+  var heatMap = new google.maps.visualization.HeatmapLayer({
+    data: data
+  });
+  const options = {
+    radius: 10,
+    map: map,
+    opacity: 0.7
+  };
+  heatMap.setOptions(options);
+  heatMap.setMap(map);
+}
 
-      bounds = new google.maps.LatLngBounds();
-      bounds.extend(southwest);
-      bounds.extend(northeast);
+function addBoundary(map) {
+  featureLayer = map.getFeatureLayer("ADMINISTRATIVE_AREA_LEVEL_2");
+  //region lookup
+  const featureStyleOptions = {
+    strokeColor: "#810FCB",
+    strokeOpacity: 1.0,
+    strokeWeight: 2.0,
+    fillColor: "#810FCB",
+    fillOpacity: 0.2,
+  };
   
-    markerMap.fitBounds(bounds);
+  // Apply the style to MoCo's boundaries.
+  //@ts-ignore
+  featureLayer.style = (options) => {
+    if (options.feature.placeId == boundaryLocation) {
+      return featureStyleOptions;
     }
-
-      document.getElementById("range-value").innerText = v.value;
-  }
-    
+  };
 }
 
 window.createMap = createMap;
