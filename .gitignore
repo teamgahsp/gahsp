@@ -49,4 +49,5 @@ Thumbs.db
 *.wmv
 
 # don't commit models
+basic_total_crimes/
 basic_total_crimes/*
