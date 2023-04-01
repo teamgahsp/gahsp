@@ -1,0 +1,162 @@
+,id,race,gender,age,ethnicity,district,division,bureau
+0,1,Asian,Male,31,NON-HISPANIC,2,2D,PSB
+1,2,Black/African American,Male,59,NON-HISPANIC,6,GPD,
+2,3,White,Male,47,NON-HISPANIC,4,4D,PSB
+3,4,Black/African American,Male,48,NON-HISPANIC,2,2D,PSB
+4,5,White,Male,38,HISPANIC,4,4D,PSB
+5,6,Black/African American,Male,40,NON-HISPANIC,4,4D,PSB
+6,7,Black/African American,Male,36,NON-HISPANIC,4,4D,PSB
+7,8,White,Male,41,HISPANIC,,6D,PSB
+8,9,White,Male,28,HISPANIC,6,6D,PSB
+9,10,Black/African American,Male,33,NON-HISPANIC,4,4D,PSB
+10,11,Black/African American,Male,31,NON-HISPANIC,3,3D,PSB
+11,12,Black/African American,Male,31,NON-HISPANIC,4,4D,PSB
+12,13,White,Male,33,HISPANIC,4,4D,PSB
+13,14,White,Male,32,HISPANIC,6,6D,PSB
+14,15,White,Male,28,HISPANIC,5,5D,PSB
+15,16,Black/African American,Male,32,NON-HISPANIC,3,3D,PSB
+16,17,White,Male,24,NON-HISPANIC,4,4D,PSB
+17,18,Black/African American,Male,29,NON-HISPANIC,3,3D,PSB
+18,19,Black/African American,Male,00,NON-HISPANIC,5,CED,FSB
+19,20,Black/African American,Male,26,NON-HISPANIC,6,GPD,
+20,21,Black/African American,Male,51,NON-HISPANIC,3,CED,FSB
+21,22,White,Male,26,NON-HISPANIC,6,GPD,
+22,23,Black/African American,Male,18,NON-HISPANIC,6,GPD,
+23,24,Black/African American,Female,19,NON-HISPANIC,4,4D,PSB
+24,25,White,Female,20,HISPANIC,6,GPD,
+25,26,White,Male,25,HISPANIC,4,4D,PSB
+26,27,Black/African American,Male,18,NON-HISPANIC,5,CED,FSB
+27,28,Black/African American,Female,19,NON-HISPANIC,4,4D,PSB
+28,29,Black/African American,Male,25,NON-HISPANIC,1,P,PSB
+29,30,Black/African American,Male,25,NON-HISPANIC,5,5D,PSB
+30,31,White,Male,26,NON-HISPANIC,4,4D,PSB
+31,32,Black/African American,Male,54,NON-HISPANIC,3,CED,FSB
+32,33,Black/African American,Male,32,NON-HISPANIC,2,2D,PSB
+33,34,Black/African American,Male,28,NON-HISPANIC,5,5D,PSB
+34,35,Black/African American,Male,24,NON-HISPANIC,1,GPD,
+35,36,White,Male,29,HISPANIC,6,GPD,
+36,37,White,Male,21,HISPANIC,6,GPD,
+37,38,Black/African American,Male,22,NON-HISPANIC,3,3D,PSB
+38,39,White,Male,62,HISPANIC,4,4D,PSB
+39,40,Black/African American,Male,25,NON-HISPANIC,6,1D,PSB
+40,41,Black/African American,Male,34,NON-HISPANIC,5,5D,PSB
+41,42,White,Male,20,NON-HISPANIC,8,TPPD,
+42,43,Black/African American,Male,31,NON-HISPANIC,2,2D,PSB
+43,44,White,Male,25,HISPANIC,4,4D,PSB
+44,45,Black/African American,Male,26,NON-HISPANIC,3,3D,PSB
+45,46,White,Female,16,HISPANIC,4,4D,PSB
+46,47,Black/African American,Male,25,NON-HISPANIC,5,5D,PSB
+47,48,Black/African American,Male,21,NON-HISPANIC,4,4D,PSB
+48,49,Black/African American,Female,37,NON-HISPANIC,4,4D,PSB
+49,50,White,Male,31,HISPANIC,2,2D,PSB
+50,51,White,Male,21,NON-HISPANIC,5,5D,PSB
+51,52,White,Male,27,HISPANIC,2,2D,PSB
+52,53,White,Male,24,NON-HISPANIC,4,4D,PSB
+53,54,Black/African American,Male,30,NON-HISPANIC,3,3D,PSB
+54,55,Black/African American,Male,29,NON-HISPANIC,3,3D,PSB
+55,56,Black/African American,Male,21,NON-HISPANIC,3,3D,PSB
+56,57,White,Male,19,NON-HISPANIC,5,5D,PSB
+57,58,Black/African American,Male,26,NON-HISPANIC,6,5D,PSB
+58,59,White,Male,16,HISPANIC,4,4D,PSB
+59,60,Black/African American,Male,00,NON-HISPANIC,5,CED,FSB
+60,61,Black/African American,Male,24,NON-HISPANIC,3,3D,PSB
+61,62,White,Male,24,HISPANIC,4,4D,PSB
+62,63,White,Male,19,NON-HISPANIC,5,5D,PSB
+63,64,Black/African American,Male,20,NON-HISPANIC,6,GPD,
+64,65,White,Male,25,NON-HISPANIC,1,1D,PSB
+65,66,White,Male,17,HISPANIC,4,4D,PSB
+66,67,White,Male,18,HISPANIC,4,4D,PSB
+67,68,Black/African American,Male,20,NON-HISPANIC,1,GPD,
+68,69,White,Male,22,HISPANIC,4,4D,PSB
+69,70,Black/African American,Male,40,NON-HISPANIC,3,3D,PSB
+70,71,White,Male,19,HISPANIC,6,GPD,
+71,72,Black/African American,Male,16,NON-HISPANIC,3,CED,FSB
+72,73,Black/African American,Male,21,NON-HISPANIC,3,3D,PSB
+73,74,Black/African American,Female,33,NON-HISPANIC,3,CED,FSB
+74,75,Unknown,Male,20,HISPANIC,4,4D,PSB
+75,76,White,Male,16,HISPANIC,4,4D,PSB
+76,77,White,Male,18,NON-HISPANIC,5,5D,PSB
+77,78,Black/African American,Male,18,NON-HISPANIC,6,TOD,FSB
+78,79,Black/African American,Male,27,NON-HISPANIC,4,4D,PSB
+79,80,White,Female,48,HISPANIC,6,GPD,
+80,81,Black/African American,Male,56,NON-HISPANIC,3,CED,FSB
+81,82,White,Female,41,NON-HISPANIC,5,CED,FSB
+82,83,Asian,Male,00,NON-HISPANIC,5,CED,FSB
+83,84,White,Male,00,HISPANIC,5,CED,FSB
+84,85,White,Male,23,HISPANIC,3,4D,PSB
+85,86,Black/African American,Male,24,NON-HISPANIC,3,3D,PSB
+86,87,Black/African American,Female,30,NON-HISPANIC,3,3D,PSB
+87,88,Black/African American,Male,34,NON-HISPANIC,2,2D,PSB
+88,89,Black/African American,Female,22,NON-HISPANIC,3,3D,PSB
+89,90,Black/African American,Male,34,NON-HISPANIC,1,P,PSB
+90,91,Black/African American,Male,25,NON-HISPANIC,3,3D,PSB
+91,92,Black/African American,Male,27,NON-HISPANIC,3,3D,PSB
+92,93,Black/African American,Male,32,NON-HISPANIC,3,3D,PSB
+93,94,Black/African American,Male,23,HISPANIC,4,4D,PSB
+94,95,Black/African American,Male,21,HISPANIC,4,4D,PSB
+95,96,Black/African American,Male,24,NON-HISPANIC,4,4D,PSB
+96,97,White,Male,17,HISPANIC,5,CED,FSB
+97,98,White,Male,20,NON-HISPANIC,4,4D,PSB
+98,99,White,Female,16,HISPANIC,4,4D,PSB
+99,100,White,Female,36,HISPANIC,4,4D,PSB
+100,101,White,Male,17,HISPANIC,4,4D,PSB
+101,102,White,Male,00,HISPANIC,5,CED,FSB
+102,103,Black/African American,Male,30,NON-HISPANIC,3,3D,PSB
+103,104,Black/African American,Male,24,NON-HISPANIC,3,3D,PSB
+104,105,White,Female,15,HISPANIC,4,4D,PSB
+105,106,Black/African American,Male,20,NON-HISPANIC,4,4D,PSB
+106,107,Black/African American,Female,34,NON-HISPANIC,3,3D,PSB
+107,108,White,Female,20,HISPANIC,5,5D,PSB
+108,109,White,Female,16,HISPANIC,4,4D,PSB
+109,110,Black/African American,Male,21,NON-HISPANIC,4,4D,PSB
+110,111,White,Female,25,HISPANIC,6,GPD,
+111,112,White,Male,19,NON-HISPANIC,6,P,PSB
+112,113,White,Male,27,HISPANIC,6,P,PSB
+113,114,White,Male,19,NON-HISPANIC,6,P,PSB
+114,115,White,Male,24,HISPANIC,4,4D,PSB
+115,116,Black/African American,Male,19,NON-HISPANIC,3,3D,PSB
+116,117,Black/African American,Male,25,NON-HISPANIC,4,4D,PSB
+117,118,White,Male,19,HISPANIC,4,4D,PSB
+118,119,White,Female,19,NON-HISPANIC,5,5D,PSB
+119,120,Black/African American,Male,25,NON-HISPANIC,5,5D,PSB
+120,121,Black/African American,Male,27,NON-HISPANIC,4,4D,PSB
+121,122,Black/African American,Male,34,NON-HISPANIC,5,5D,PSB
+122,123,Black/African American,Female,21,NON-HISPANIC,5,5D,PSB
+123,124,Black/African American,Male,23,NON-HISPANIC,4,4D,PSB
+124,125,Black/African American,Male,24,NON-HISPANIC,4,4D,PSB
+125,126,White,Male,20,NON-HISPANIC,4,4D,PSB
+126,127,Black/African American,Male,21,NON-HISPANIC,6,6D,PSB
+127,128,Black/African American,Male,19,NON-HISPANIC,4,4D,PSB
+128,129,Black/African American,Male,38,NON-HISPANIC,4,4D,PSB
+129,130,White,Male,22,HISPANIC,3,3D,PSB
+130,131,White,Male,15,HISPANIC,4,4D,PSB
+131,132,White,Male,16,HISPANIC,4,4D,PSB
+132,133,White,Male,16,HISPANIC,4,4D,PSB
+133,134,White,Female,15,HISPANIC,4,4D,PSB
+134,135,White,Male,18,NON-HISPANIC,4,4D,PSB
+135,136,Black/African American,Male,43,NON-HISPANIC,2,2D,PSB
+136,137,Black/African American,Male,17,NON-HISPANIC,4,4D,PSB
+137,138,White,Male,24,HISPANIC,4,4D,PSB
+138,139,White,Male,22,HISPANIC,4,4D,PSB
+139,140,Black/African American,Male,24,NON-HISPANIC,6,5D,PSB
+140,141,Black/African American,Male,19,NON-HISPANIC,5,5D,PSB
+141,142,White,Male,30,NON-HISPANIC,4,4D,PSB
+142,143,White,Male,17,NON-HISPANIC,4,4D,PSB
+143,144,White,Male,20,NON-HISPANIC,4,4D,PSB
+144,145,White,Male,20,HISPANIC,4,4D,PSB
+145,146,White,Male,23,HISPANIC,4,4D,PSB
+146,147,Black/African American,Male,19,NON-HISPANIC,3,3D,PSB
+147,148,Black/African American,Male,18,NON-HISPANIC,3,3D,PSB
+148,149,White,Male,00,HISPANIC,3,3D,PSB
+149,150,White,Male,28,HISPANIC,3,3D,PSB
+150,151,White,Male,17,HISPANIC,3,3D,PSB
+151,152,White,Female,61,NON-HISPANIC,3,3D,PSB
+152,153,White,Male,61,HISPANIC,4,4D,PSB
+153,154,White,Male,23,NON-HISPANIC,4,4D,PSB
+154,155,Black/African American,Male,23,NON-HISPANIC,2,2D,PSB
+155,156,Black/African American,Male,14,NON-HISPANIC,3,CED,FSB
+156,157,Black/African American,Male,18,NON-HISPANIC,5,5D,PSB
+157,158,Black/African American,Male,42,NON-HISPANIC,5,5D,PSB
+158,159,Black/African American,Female,41,NON-HISPANIC,5,5D,PSB
+159,160,Black/African American,Male,33,NON-HISPANIC,4,4D,PSB
+160,161,Black/African American,Male,24,NON-HISPANIC,1,RCPD,

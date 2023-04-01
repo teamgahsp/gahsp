@@ -1,0 +1,1001 @@
+,fall_term,student_type,student_status,gender,ethnicity,race,attending_germantown,attending_rockville,attending_takoma_park_ss,attend_day_or_evening,mc_program_description,age_group,hs_category,city_in_md,state,zip,county_in_md,mcps_high_school
+0,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,Foreign Country,Bethesda,MD,20816,Montgomery,
+1,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Evening Only,Building Trades Technology (AA & AAS),21 - 24,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+2,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day & Evening,Computer Gaming & Simulation (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Quince Orchard Sr High School
+3,2015,New,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+4,2015,New,Full-Time,Female,Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Montgomery Blair High School
+5,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+6,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+7,2015,New,Full-Time,Male,Hispanic,Black,No,No,Yes,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,Mont.County Other,Silver Spring,MD,20903,Montgomery,
+8,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Education / Teacher Education (AA & AAT),21 - 24,Foreign Country,Silver Spring,MD,20901,Montgomery,
+9,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),25 - 29,Other State,Rockville,MD,20851,Montgomery,
+10,2015,New,Part-Time,Male,Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Bethesda Chevy Chase High Schl
+11,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),21 - 24,MCPS,Darnestown,MD,20878,Montgomery,Winston Churchill High School
+12,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Criminal Justice (AA & AAS),21 - 24,Other State,Olney,MD,20832,Montgomery,
+13,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20910,Montgomery,Montgomery Blair High School
+14,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20850,Montgomery,Rockville High School
+15,2015,Continuing,Full-Time,Male,Hispanic,Hispanic,No,Yes,Yes,Day Only,Business / International Business (AA),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Northwood High School
+16,2015,Continuing,Full-Time,Female,Not Hispanic,Pacific Islander,Yes,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Sherwood High School
+17,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,No,Yes,No Specific Time[online],Diagnostic Medical Sonography (AA & AAS),21 - 24,Other Maryland,Prince Frederick,MD,20678,Calvert,
+18,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+19,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+20,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,Criminal Justice (AA & AAS),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+21,2015,New,Full-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+22,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day & Evening,Engineering Science (AA & AS - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20903,Montgomery,
+23,2015,New,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+24,2015,New,Full-Time,Male,Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Rockville,MD,20851,Montgomery,Richard Montgomery High School
+25,2015,Continuing,Part-Time,Male,Hispanic,Multi-Race,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+26,2015,New,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Criminal Justice (AA & AAS),20 or Younger,Other State,Washington,DC,20020,Other,
+27,2015,Continuing,Full-Time,Female,Hispanic,White,Yes,No,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Seneca Valley High School
+28,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+29,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Evening Only,General Studies (AA - All Tracks),30 or Older,Other State,Rockville,MD,20852,Montgomery,
+30,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,No Specific Time[online],Engineering Science (AA & AS - All Tracks),21 - 24,Other State,Bethesda,MD,20814,Montgomery,
+31,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,No,No,Day Only,General Studies (AA - All Tracks),30 or Older,MCPS,Gaithersburg,MD,20879,Montgomery,Wheaton High School
+32,2015,Transfer no degree,Full-Time,Male,Not Hispanic,Asian,No,Yes,Yes,No Specific Time[online],Health Sciences (Pre-Clinical Studies),20 or Younger,Other State,Gaithersburg,MD,20877,Montgomery,
+33,2015,New,Full-Time,Female,Hispanic,White,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Bethesda Chevy Chase High Schl
+34,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Business / International Business (AA),25 - 29,GED,Silver Spring,MD,20915,Montgomery,
+35,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Gaithersburg,MD,20879,Montgomery,Gaithersburg High School
+36,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Evening Only,Credit (Undeclared / Undecided),21 - 24,MCPS,Rockville,MD,20851,Montgomery,Rockville High School
+37,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Colonel Zadok Magruder HS
+38,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day & Evening,Credit (Undeclared / Undecided),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Damascus High School
+39,2015,Continuing,Part-Time,Male,Unknown,Asian,Yes,No,Yes,No Specific Time[online],General Studies (AA - All Tracks),25 - 29,MCPS,Silver Spring,MD,20904,Montgomery,Springbrook Sr High School
+40,2015,Continuing,Part-Time,Male,Hispanic,Multi-Race,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+41,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Paint Branch High School
+42,2015,HS Student,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,Home-Schooled,Montgomery Village,MD,20886,Montgomery,
+43,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,Yes,Evening Only,Computer Science & Technologies (AA - All Tracks),30 or Older,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+44,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,No,Yes,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Silver Spring,MD,20902,Montgomery,
+45,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,No,Yes,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Silver Spring,MD,20902,Montgomery,
+46,2015,HS Student,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Gaithersburg,MD,20879,Montgomery,
+47,2015,Transfer no degree,Full-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other State,Columbia,MO,65203,Other,
+48,2015,New,Full-Time,Male,Hispanic,White,Yes,Yes,No,Day & Evening,Accounting (AA & AAS),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Quince Orchard Sr High School
+49,2015,New,Full-Time,Female,Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,Albert Einstein HS & MC Art Cn
+50,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),21 - 24,MCPS,Takoma Park,MD,20912,Montgomery,Northwood High School
+51,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Accounting (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20902,Montgomery,
+52,2015,HS Student,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Gaithersburg,MD,20882,Montgomery,
+53,2015,HS Student,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Gaithersburg,MD,20882,Montgomery,
+54,2015,HS Student,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Gaithersburg,MD,20882,Montgomery,
+55,2015,New,Part-Time,Male,Hispanic,White,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+56,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+57,2015,New,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day & Evening,Building Trades Technology (CT),30 or Older,Foreign Country,Bethesda,MD,20817,Montgomery,
+58,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,No,No,Yes,Day & Evening,Science (AS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+59,2015,Continuing,Full-Time,Female,Hispanic,White,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Derwood,MD,20855,Montgomery,Richard Montgomery High School
+60,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,No,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,MCPS,Silver Spring,MD,20910,Montgomery,Montgomery Blair High School
+61,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Evening Only,Engineering Science (AA & AS - All Tracks),30 or Older,Foreign Country,Kensington,MD,20895,Montgomery,
+62,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,Other State,Poolesville,MD,20837,Montgomery,
+63,2015,Continuing,Full-Time,Male,Hispanic,Native American,Yes,Yes,No,Day & Evening,Business / International Business (AA),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Colonel Zadok Magruder HS
+64,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Other Maryland,Gaithersburg,MD,20877,Montgomery,
+65,2015,Transfer no degree,Part-Time,Female,Hispanic,White,No,No,Yes,No Specific Time[online],Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+66,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,No,Yes,No Specific Time[online],"Graphic Design (AA, AAS, & AFA - All Tracks)",21 - 24,Other State,Clarksburg,MD,20871,Montgomery,
+67,2015,New,Part-Time,Female,Hispanic,Multi-Race,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+68,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day & Evening,Science (AS - All Tracks),21 - 24,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+69,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),25 - 29,MCPS,Silver Spring,MD,20904,Montgomery,Springbrook Sr High School
+70,2015,New,Full-Time,Male,Hispanic,Pacific Islander,Yes,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",20 or Younger,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+71,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Northwood High School
+72,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20910,Montgomery,Montgomery Blair High School
+73,2015,Continuing,Full-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Potomac,MD,20854,Montgomery,Watkins Mill High School
+74,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,No,No,Evening Only,Business / International Business (AA),30 or Older,Other Maryland,Montgomery Village,MD,20886,Montgomery,
+75,2015,Transfer no degree,Part-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+76,2015,New,Part-Time,Male,Unknown,White,No,No,Yes,Day Only,Photography (AA & AAS),21 - 24,Foreign Country,Rockville,MD,20850,Montgomery,
+77,2015,HS Student,Part-Time,Male,Not Hispanic,Asian,Yes,No,No,No Specific Time[online],Computer Science - Computer Programming (CT),20 or Younger,MCPS,Potomac,MD,20854,Montgomery,Walt Whitman High School
+78,2015,Continuing,Part-Time,Female,Unknown,White,Yes,No,No,Evening Only,School of Art & Design - Applicants,21 - 24,Other State,Gaithersburg,MD,20879,Montgomery,
+79,2015,Continuing,Full-Time,Male,Hispanic,White,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20784,Prince George's,Northwest HS - Germantown
+80,2015,New,Part-Time,Male,Unknown,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),30 or Older,Foreign Country,North Potomac,MD,20878,Montgomery,
+81,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,Credit (Undeclared / Undecided),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+82,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Criminal Justice (AA & AAS),20 or Younger,MCPS,Silver Spring,MD,20903,Montgomery,Springbrook Sr High School
+83,2015,New,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Early Childhood Education (AA & AAS),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+84,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,Home-Schooled,Gaithersburg,MD,20879,Montgomery,
+85,2015,New,Part-Time,Female,Not Hispanic,Asian,No,No,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,Other Maryland,Hyattsville,MD,20783,Prince George's,
+86,2015,New,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Communication Studies (AA),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+87,2015,Transfer with degree,Part-Time,Male,Not Hispanic,White,No,No,Yes,Day Only,Education / Teacher Education (AA & AAT),30 or Older,MCPS,Silver Spring,MD,20910,Montgomery,Montgomery Blair High School
+88,2015,Continuing,Full-Time,Female,Hispanic,White,No,Yes,No,Day & Evening,Business / International Business (AA),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Winston Churchill High School
+89,2015,New,Full-Time,Male,Not Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Other Maryland,Bowie,MD,20720,Prince George's,
+90,2015,New,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Science (AS - All Tracks),20 or Younger,Other Maryland,Bowie,MD,20721,Prince George's,
+91,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,No Specific Time[online],Accounting (AA & AAS),30 or Older,Foreign Country,Rockville,MD,20853,Montgomery,
+92,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),30 or Older,MCPS,Gaithersburg,MD,20878,Montgomery,Winston Churchill High School
+93,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,No,Yes,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Montgomery Blair High School
+94,2015,Continuing,Full-Time,Male,Hispanic,White,No,Yes,No,Day & Evening,Arts & Sciences Transfer (AA - All Tracks),30 or Older,Other State,Germantown,MD,20876,Montgomery,
+95,2015,Transfer no degree,Full-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day & Evening,Business / International Business (AA),20 or Younger,Other Maryland,Clinton,MD,20735,Prince George's,
+96,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Commun & Broadcasting Tech (CT),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Gaithersburg High School
+97,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Other State,Harpers Ferry,WV,25425,Other,
+98,2015,Continuing,Full-Time,Female,Hispanic,Native American,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Colonel Zadok Magruder HS
+99,2015,New,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,Albert Einstein HS & MC Art Cn
+100,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+101,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,Yes,Day Only,Computer Science & Technologies (AA - All Tracks),25 - 29,Foreign Country,Silver Spring,MD,20910,Montgomery,
+102,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,Engineering Science (AA & AS - All Tracks),25 - 29,MCPS,Chevy Chase,MD,20815,Montgomery,Walter Johnson High School
+103,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Silver Spring,MD,20901,Montgomery,
+104,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Rockville High School
+105,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Wheaton High School
+106,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Evening Only,Management of Construction (CT),30 or Older,Foreign Country,Rockville,MD,20850,Montgomery,
+107,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Evening Only,Commun & Broadcasting Tech (AA & AAS - All Tracks),25 - 29,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+108,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Olney,MD,20832,Montgomery,Albert Einstein HS & MC Art Cn
+109,2015,Continuing,Full-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+110,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),21 - 24,Foreign Country,Rockville,MD,20850,Montgomery,
+111,2015,New,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Germantown,MD,20876,Montgomery,
+112,2015,New,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Germantown,MD,20876,Montgomery,
+113,2015,Continuing,Part-Time,Female,Unknown,White,No,No,Yes,Day Only,Nursing (AA & AAS),25 - 29,GED,Silver Spring,MD,20904,Montgomery,
+114,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,Yes,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+115,2015,New,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),20 or Younger,MCPS,Spencerville,MD,20868,Montgomery,James Hubert Blake High School
+116,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day Only,Criminal Justice (AA & AAS),30 or Older,Other State,Rockville,MD,20850,Montgomery,
+117,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),30 or Older,MCPS,Silver Spring,MD,20905,Montgomery,Paint Branch High School
+118,2015,Transfer no degree,Full-Time,Female,Not Hispanic,White,Yes,Yes,No,Day & Evening,Science (AS - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Thomas Sprigg Wootton High Sch
+119,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other State,Silver Spring,MD,20902,Montgomery,
+120,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),21 - 24,Other Maryland,Washington,DC,20015,Washington,
+121,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Early Childhood Education (CT),20 or Younger,MCPS,Silver Spring,MD,20910,Montgomery,Albert Einstein HS & MC Art Cn
+122,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,Day & Evening,Science (AS - All Tracks),25 - 29,Foreign Country,Chevy Chase,MD,20815,Montgomery,
+123,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,Cybersecurity (AAS),25 - 29,Other State,Rockville,MD,20852,Montgomery,
+124,2015,Transfer no degree,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,Foreign Country,Larbo,MD,20774,Prince George's,
+125,2015,New,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+126,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20905,Montgomery,James Hubert Blake High School
+127,2015,HS Student,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Montgomery Village,MD,20886,Montgomery,
+128,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Mont.County Other,Washington,DC,20008,Washington,
+129,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),30 or Older,MCPS,Hyattsville,MD,20783,Prince George's,Gaithersburg High School
+130,2015,Transfer with degree,Part-Time,Male,Not Hispanic,White,No,Yes,No,Evening Only,Management of Construction (CT),30 or Older,MCPS,Silver Spring,MD,20902,Montgomery,Winston Churchill High School
+131,2015,Continuing,Part-Time,Female,Unknown,White,Yes,No,Yes,Day Only,Early Childhood Education (CT),30 or Older,GED,Silver Spring,MD,20906,Montgomery,
+132,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),30 or Older,GED,Rockville,MD,20850,Montgomery,
+133,2015,Continuing,Full-Time,Male,Not Hispanic,Black,Yes,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Gaithersburg High School
+134,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Washington,DC,20032,Other,
+135,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,Yes,Day Only,Science (AS - All Tracks),21 - 24,Foreign Country,Germantown,MD,20874,Montgomery,
+136,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Business / International Business (AA),20 or Younger,Other State,Washington,DC,20019,Other,
+137,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+138,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+139,2015,New,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day & Evening,Computer Applications (CT),20 or Younger,MCPS,Gaithersburg,MD,20882,Montgomery,Damascus High School
+140,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+141,2015,Continuing,Part-Time,Female,Unknown,Black,Yes,Yes,Yes,Day Only,Mental Health Associate (AA & AAS),25 - 29,Other State,Rockville,MD,20853,Montgomery,
+142,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day & Evening,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Springbrook Sr High School
+143,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,No,No,Day Only,Credit (Undeclared / Undecided),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,Rockville High School
+144,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",21 - 24,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+145,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day & Evening,Interior Design - PreProfessional (AAS),30 or Older,Other State,Silver Spring,MD,20910,Montgomery,
+146,2015,Continuing,Part-Time,Male,Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Silver Spring,MD,20904,Montgomery,
+147,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+148,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+149,2015,Continuing,Full-Time,Male,Hispanic,White,Yes,Yes,No,Day & Evening,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+150,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+151,2015,New,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Bethesda,MD,20816,Montgomery,Walt Whitman High School
+152,2015,New,Full-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Watkins Mill High School
+153,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,Mont.County Other,Silver Spring,MD,20902,Montgomery,
+154,2015,Continuing,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20851,Montgomery,Richard Montgomery High School
+155,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Evening Only,Education / Teacher Education (AA & AAT),21 - 24,MCPS,Burtonsville,MD,20866,Montgomery,Springbrook Sr High School
+156,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+157,2015,Continuing,Part-Time,Male,Hispanic,White,Yes,No,Yes,Evening Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+158,2015,Transfer no degree,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Communication Studies (AA),21 - 24,Other Maryland,Beltsville,MD,20705,Prince George's,
+159,2015,Continuing,Full-Time,Male,Not Hispanic,Black,Yes,No,No,Day & Evening,Arts & Sciences Transfer (AA - All Tracks),21 - 24,MCPS,Montgomery Village,MD,20886,Montgomery,Watkins Mill High School
+160,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Evening Only,Early Childhood Education (AA & AAS),30 or Older,Other Maryland,Burtonsville,MD,20866,Montgomery,
+161,2015,New,Part-Time,Male,Hispanic,Black,No,No,Yes,Day & Evening,Engineering Science (AA & AS - All Tracks),20 or Younger,Mont.County Other,Hyattsville,MD,20782,Prince George's,
+162,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+163,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+164,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20906,Montgomery,
+165,2015,Continuing,Part-Time,Female,Unknown,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Wheaton High School
+166,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Evening Only,Criminal Justice (AA & AAS),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+167,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+168,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+169,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),30 or Older,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+170,2015,Continuing,Part-Time,Female,Unknown,Black,No,Yes,No,No Specific Time[online],Health Sciences (Pre-Clinical Studies),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Montgomery Blair High School
+171,2015,New,Part-Time,Unknown,Not Hispanic,Unknown,No,Yes,No,Day Only,Automotive Technology (AA & AAS),21 - 24,MCPS,Rockville,MD,20853,Montgomery,Wheaton High School
+172,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,Commun & Broadcasting Tech (AA & AAS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+173,2015,Continuing,Full-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Colonel Zadok Magruder HS
+174,2015,Continuing,Part-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Evening Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Rockville,MD,20852,Montgomery,Albert Einstein HS & MC Art Cn
+175,2015,Continuing,Full-Time,Female,Unknown,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),30 or Older,Foreign Country,Bethesda,MD,20814,Montgomery,
+176,2015,New,Full-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Clarksburg,MD,20871,Montgomery,Clarksburg High School
+177,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,No Specific Time[online],Paralegal Studies (AA & AAS),30 or Older,Other State,Gaithersburg,MD,20879,Montgomery,
+178,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),30 or Older,MCPS,North Bethesda,MD,20852,Montgomery,Walter Johnson High School
+179,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),21 - 24,Foreign Country,Germantown,MD,20874,Montgomery,
+180,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Polysomnography Technology (CT),25 - 29,Other State,Hyattsville,MD,20782,Prince George's,
+181,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Science (AS - All Tracks),21 - 24,MCPS,Boyds,MD,20841,Montgomery,Northwest HS - Germantown
+182,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),30 or Older,Foreign Country,Burtonsville,MD,20866,Montgomery,
+183,2015,Continuing,Part-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Evening Only,Criminal Justice (AA & AAS),30 or Older,MCPS,Gaithersburg,MD,20879,Montgomery,Seneca Valley High School
+184,2015,New,Part-Time,Female,Not Hispanic,Multi-Race,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,Other State,Silver Spring,MD,20902,Montgomery,
+185,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Accounting (CT),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Albert Einstein HS & MC Art Cn
+186,2015,New,Part-Time,Female,Not Hispanic,White,Yes,No,No,No Specific Time[online],Management (CT),30 or Older,Foreign Country,Bethesda,MD,20817,Montgomery,
+187,2015,New,Part-Time,Female,Not Hispanic,Asian,No,No,Yes,Day Only,Science (AS - All Tracks),20 or Younger,Other State,Silver Spring,MD,20903,Montgomery,
+188,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Rockville,MD,20852,Montgomery,
+189,2015,Continuing,Full-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Microcomputer Technician (AA & AAS),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Watkins Mill High School
+190,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+191,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,No,Yes,Evening Only,General Studies (AA - All Tracks),21 - 24,Mont.County Other,Bethesda,MD,20817,Montgomery,
+192,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,Mont.County Other,Clarksburg,MD,20871,Montgomery,
+193,2015,Transfer no degree,Part-Time,Male,Not Hispanic,White,No,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),25 - 29,Other State,Bethesda,MD,20817,Montgomery,
+194,2015,New,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),25 - 29,GED,Bethesda,MD,20817,Montgomery,
+195,2015,New,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Potomac,MD,20854,Montgomery,Thomas Sprigg Wootton High Sch
+196,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Evening Only,Health Sciences (Pre-Clinical Studies),30 or Older,MCPS,Beltsville,MD,20705,Prince George's,Paint Branch High School
+197,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,Yes,Yes,No,Day Only,Education / Teacher Education (AA & AAT),30 or Older,Foreign Country,Germantown,MD,20874,Montgomery,
+198,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20905,Montgomery,James Hubert Blake High School
+199,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,No Specific Time[online],Cybersecurity (AAS),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+200,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Evening Only,Credit (Undeclared / Undecided),25 - 29,MCPS,Rockville,MD,20851,Montgomery,Rockville High School
+201,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,Yes,No,Day & Evening,Engineering Science (AA & AS - All Tracks),30 or Older,MCPS,Germantown,MD,20874,Montgomery,Rockville High School
+202,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,Hospitality Management (AA & AAS),21 - 24,Mont.County Other,Rockville,MD,20853,Montgomery,
+203,2015,Transfer with degree,Part-Time,Female,Not Hispanic,White,No,No,Yes,No Specific Time[online],Diagnostic Medical Sonography (AA & AAS),21 - 24,Other Maryland,Waldorf,MD,20603,Charles,
+204,2015,Continuing,Part-Time,Female,Hispanic,White,No,No,Yes,Day Only,Nursing (AA & AAS),25 - 29,Foreign Country,Silver Spring,MD,20906,Montgomery,
+205,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),21 - 24,Other State,Cheverly,MD,20785,Prince George's,
+206,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,"Fire Sci./Preven., Emerg. Prepare. (AA, AS & AAS)",20 or Younger,MCPS,Derwood,MD,20855,Montgomery,Poolesville Jr-Sr High School
+207,2015,New,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,Science (AS - All Tracks),20 or Younger,Other State,Hyattsville,MD,20783,Prince George's,
+208,2015,New,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Washington,DC,20009,Other,
+209,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Evening Only,General Studies (AA - All Tracks),30 or Older,MCPS,Rockville,MD,20850,Montgomery,Thomas Sprigg Wootton High Sch
+210,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Colonel Zadok Magruder HS
+211,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Criminal Justice (AA & AAS),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Northwest HS - Germantown
+212,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day & Evening,Architectural & Construction Tech (AA & AAS),21 - 24,Foreign Country,Derwood,MD,20855,Montgomery,
+213,2015,Continuing,Full-Time,Male,Hispanic,Asian,Yes,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+214,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+215,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),30 or Older,MCPS,Rockville,MD,20853,Montgomery,Wheaton High School
+216,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Evening Only,Science (AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+217,2015,New,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day & Evening,Accounting (AA & AAS),30 or Older,Foreign Country,Takoma Park,MD,20912,Montgomery,
+218,2015,Continuing,Part-Time,Male,Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+219,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,No,Evening Only,General Studies (AA - All Tracks),30 or Older,GED,Gaithersburg,MD,20879,Montgomery,
+220,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+221,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Silver Spring,MD,20902,Montgomery,
+222,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+223,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,No,Yes,Evening Only,Cybersecurity (AAS),30 or Older,MCPS,Montgomery Village,MD,20886,Montgomery,Quince Orchard Sr High School
+224,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,Criminal Justice (AA & AAS),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+225,2015,New,Full-Time,Female,Hispanic,Pacific Islander,No,No,Yes,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Montgomery Blair High School
+226,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,No,Yes,Evening Only,Paralegal Studies (AA & AAS),30 or Older,Other State,Silver Spring,MD,20903,Montgomery,
+227,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Evening Only,Health Sciences (Pre-Clinical Studies),30 or Older,Other State,Washington,DC,20001,Other,
+228,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,Computer Science & Technologies (AA - All Tracks),25 - 29,Foreign Country,Takoma Park,MD,20912,Montgomery,
+229,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,MCPS,Olney,MD,20832,Montgomery,Springbrook Sr High School
+230,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Albert Einstein HS & MC Art Cn
+231,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Digital Media & Web Technology (AAS),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Northwood High School
+232,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),30 or Older,GED,Rockville,MD,20852,Montgomery,
+233,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Evening Only,Education / Teacher Education (AA & AAT),25 - 29,MCPS,Silver Spring,MD,20905,Montgomery,Springbrook Sr High School
+234,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,Yes,Day Only,Accounting (AA & AAS),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+235,2015,New,Part-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,Architectural & Construction Tech (AA & AAS),20 or Younger,MCPS,Silver Spring,MD,20903,Montgomery,Montgomery Blair High School
+236,2015,New,Part-Time,Female,Hispanic,Hispanic,No,Yes,Yes,Day Only,Credit (Undeclared / Undecided),25 - 29,MCPS,Rockville,MD,20852,Montgomery,John F. Kennedy High School
+237,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,No,Yes,Evening Only,General Studies (AA - All Tracks),25 - 29,GED,Germantown,MD,20876,Montgomery,
+238,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Clarksburg,MD,20871,Montgomery,Clarksburg High School
+239,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day & Evening,Architectural & Construction Tech (AA & AAS),30 or Older,Foreign Country,Brookeville,MD,20833,Montgomery,
+240,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),25 - 29,Foreign Country,Silver Spring,MD,20910,Montgomery,
+241,2015,New,Part-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Colonel Zadok Magruder HS
+242,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Studio Art (AFA) - School of Art & Design,21 - 24,MCPS,District Heights,MD,20747,Prince George's,James Hubert Blake High School
+243,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Cybersecurity (AAS),25 - 29,MCPS,Kensington,MD,20895,Montgomery,Walter Johnson High School
+244,2015,New,Full-Time,Female,Hispanic,Native American,Yes,No,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+245,2015,New,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Computer Science & Technologies (AA - All Tracks),25 - 29,GED,Rockville,MD,20851,Montgomery,
+246,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Science (AS - All Tracks),21 - 24,Foreign Country,Silver Spring,MD,20904,Montgomery,
+247,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+248,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+249,2015,Continuing,Part-Time,Male,Unknown,Asian,No,Yes,No,Evening Only,Health Sciences (Pre-Clinical Studies),25 - 29,Other State,Rockville,MD,20850,Montgomery,
+250,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,No Specific Time[online],Business / International Business (AA),30 or Older,MCPS,Rockville,MD,20853,Montgomery,Gaithersburg High School
+251,2015,Continuing,Part-Time,Male,Unknown,Black,No,Yes,Yes,Evening Only,Biotechnology (AA & AAS),30 or Older,Foreign Country,Takoma Park,MD,20912,Montgomery,
+252,2015,Continuing,Part-Time,Male,Hispanic,Native American,No,Yes,No,Day Only,Science (AS - All Tracks),21 - 24,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+253,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,No,Evening Only,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20853,Montgomery,Walter Johnson High School
+254,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,Evening Only,Health Sciences (Pre-Clinical Studies),25 - 29,Other State,Germantown,MD,20874,Montgomery,
+255,2015,Continuing,Part-Time,Male,Not Hispanic,Native American,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,Other State,Germantown,MD,20876,Montgomery,
+256,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,Yes,No,No,Day & Evening,Business / International Business (AA),21 - 24,Other State,Germantown,MD,20876,Montgomery,
+257,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Evening Only,Business / International Business (AA),25 - 29,MCPS,Silver Spring,MD,20906,Montgomery,Albert Einstein HS & MC Art Cn
+258,2015,Continuing,Part-Time,Female,Hispanic,Native American,No,Yes,No,Day Only,Hospitality Management (AA & AAS),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Albert Einstein HS & MC Art Cn
+259,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other State,Silver Spring,MD,20910,Montgomery,
+260,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other State,Silver Spring,MD,20910,Montgomery,
+261,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Clarksburg,MD,20871,Montgomery,Clarksburg High School
+262,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,Business / International Business (AA),25 - 29,Mont.County Other,Silver Spring,MD,20902,Montgomery,
+263,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Cybersecurity (AAS),21 - 24,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+264,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Richard Montgomery High School
+265,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Montgomery Village,MD,20886,Montgomery,Watkins Mill High School
+266,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,No,Day Only,Communication Studies (AA),20 or Younger,Mont.County Other,Potomac,MD,20854,Montgomery,
+267,2015,New,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,No Specific Time[online],Computer Science & Technologies (AA - All Tracks),21 - 24,Foreign Country,Germantown,MD,20876,Montgomery,
+268,2015,Continuing,Part-Time,Female,Hispanic,Black,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),21 - 24,Foreign Country,Montgomery Village,MD,20886,Montgomery,
+269,2015,New,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Colonel Zadok Magruder HS
+270,2015,New,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day & Evening,General Studies (AA - All Tracks),25 - 29,Foreign Country,Montgomery Village,MD,20886,Montgomery,
+271,2015,Continuing,Full-Time,Male,Hispanic,White,No,No,Yes,Day & Evening,Engineering Science (AA & AS - All Tracks),21 - 24,Other Maryland,Rockville,MD,20850,Montgomery,
+272,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+273,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+274,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+275,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+276,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+277,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+278,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+279,2015,HS Student,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Gaithersburg High School
+280,2015,Transfer no degree,Part-Time,Male,Not Hispanic,Multi-Race,No,No,Yes,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,Other State,Washington,DC,20002,Other,
+281,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,Yes,No,Yes,Evening Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+282,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,Yes,Evening Only,Education / Teacher Education (AA & AAT),25 - 29,MCPS,Gaithersburg,MD,20879,Montgomery,Northwest HS - Germantown
+283,2015,New,Part-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Olney,MD,20832,Montgomery,James Hubert Blake High School
+284,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,Yes,Yes,No,Day Only,Business / International Business (AA),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+285,2015,New,Part-Time,Male,Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Kensington,MD,20895,Montgomery,Bethesda Chevy Chase High Schl
+286,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,No Specific Time[online],Health Information Management (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20910,Montgomery,
+287,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Kensington,MD,20895,Montgomery,Walter Johnson High School
+288,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20850,Montgomery,Thomas Sprigg Wootton High Sch
+289,2015,New,Part-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,Computer Science - Computer Programming (CT),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Quince Orchard Sr High School
+290,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Clarksburg,MD,20871,Montgomery,Clarksburg High School
+291,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+292,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Communication Studies (AA),20 or Younger,GED,Rockville,MD,20852,Montgomery,
+293,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,Other State,Hyattsville,MD,20783,Prince George's,
+294,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Damascus,MD,20872,Montgomery,Damascus High School
+295,2015,New,Full-Time,Male,Hispanic,White,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Mont.County Other,Silver Spring,MD,20904,Montgomery,
+296,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Gaithersburg,MD,20877,Montgomery,
+297,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Watkins Mill High School
+298,2015,New,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,No Specific Time[online],Credit (Undeclared / Undecided),21 - 24,MCPS,Bethesda,MD,20814,Montgomery,Walt Whitman High School
+299,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,No,Yes,Evening Only,Paralegal Studies (AA & AAS),30 or Older,Other State,Annapolis,MD,21404,Anne Arundel,
+300,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Kensington,MD,20895,Montgomery,Bethesda Chevy Chase High Schl
+301,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Montgomery Blair High School
+302,2015,Continuing,Part-Time,Male,Hispanic,Native American,No,No,Yes,Day Only,Specialized Art Transfer (CT),20 or Younger,Other State,Washington,DC,20018,Other,
+303,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,No,Day Only,School of Art & Design - Applicants,30 or Older,Foreign Country,Potomac,MD,20854,Montgomery,
+304,2015,New,Part-Time,Male,Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20903,Montgomery,Montgomery Blair High School
+305,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,Computer Science & Technologies (AA - All Tracks),20 or Younger,Foreign Country,Poolesville,MD,20837,Montgomery,
+306,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,General Studies (AA - All Tracks),30 or Older,Foreign Country,Takoma Park,MD,20912,Montgomery,
+307,2015,Continuing,Full-Time,Male,Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Damascus,MD,20872,Montgomery,
+308,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+309,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,Criminal Justice (AA & AAS),30 or Older,Other State,Montgomery Village,MD,20886,Montgomery,
+310,2015,Transfer no degree,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Mont.County Other,Laytonsville,MD,20882,Montgomery,
+311,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",20 or Younger,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+312,2015,New,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Commun & Broadcasting Tech (CT),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Paint Branch High School
+313,2015,Transfer no degree,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Evening Only,Engineering Science (AA & AS - All Tracks),30 or Older,Foreign Country,Burtonsville,MD,20866,Montgomery,
+314,2015,Continuing,Part-Time,Male,Hispanic,Pacific Islander,No,Yes,No,Day Only,Automotive Technology (AA & AAS),20 or Younger,Other Maryland,Silver Spring,MD,20904,Montgomery,
+315,2015,New,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Richard Montgomery High School
+316,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Thomas Sprigg Wootton High Sch
+317,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,John F. Kennedy High School
+318,2015,Continuing,Full-Time,Male,Hispanic,White,Yes,No,No,Day Only,Science (AS - All Tracks),20 or Younger,GED,Gaithersburg,MD,20879,Montgomery,
+319,2015,Continuing,Part-Time,Female,Unknown,Asian,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),25 - 29,MCPS,Rockville,MD,20852,Montgomery,Wheaton High School
+320,2015,New,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Sandy Spring,MD,20860,Montgomery,Sherwood High School
+321,2015,New,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+322,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,Other Maryland,Rockville,MD,20853,Montgomery,
+323,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,Yes,Day Only,Cybersecurity (AAS),30 or Older,Foreign Country,Montgomery Village,MD,20886,Montgomery,
+324,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Quince Orchard Sr High School
+325,2015,New,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Accounting (AA & AAS),21 - 24,Foreign Country,Rockville,MD,20850,Montgomery,
+326,2015,New,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+327,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),21 - 24,GED,Rockville,MD,20853,Montgomery,
+328,2015,Continuing,Full-Time,Male,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,Other State,Laurel,MD,20707,Prince George's,
+329,2015,Transfer with degree,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),21 - 24,Other Maryland,Rockville,MD,20852,Montgomery,
+330,2015,New,Full-Time,Male,Hispanic,Native American,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,GED,Silver Spring,MD,20905,Montgomery,
+331,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,Yes,Day & Evening,Science (AS - All Tracks),25 - 29,Foreign Country,Silver Spring,MD,20902,Montgomery,
+332,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,,MD,,Montgomery,John F. Kennedy High School
+333,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,GED,Germantown,MD,20876,Montgomery,
+334,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,Yes,No,Day & Evening,Education / Teacher Education (AA & AAT),21 - 24,Mont.County Other,Potomac,MD,20854,Montgomery,
+335,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Evening Only,Computer Science & Technologies (AA - All Tracks),25 - 29,Foreign Country,Rockville,MD,20850,Montgomery,
+336,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),21 - 24,Mont.County Other,Rockville,MD,20850,Montgomery,
+337,2015,HS Student,Part-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Evening Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+338,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,Foreign Country,Kensington,MD,20895,Montgomery,
+339,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Evening Only,Microcomputer Technician (AA & AAS),30 or Older,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+340,2015,Continuing,Full-Time,Female,Hispanic,Native American,No,No,Yes,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,Other Maryland,Hyattsville,MD,20783,Prince George's,
+341,2015,Continuing,Full-Time,Male,Hispanic,Hispanic,No,Yes,Yes,Day Only,Business / International Business (AA),21 - 24,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+342,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,Yes,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Bethesda,MD,20817,Montgomery,Walter Johnson High School
+343,2015,New,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Watkins Mill High School
+344,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Gaithersburg,MD,20877,Montgomery,Colonel Zadok Magruder HS
+345,2015,Continuing,Full-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Rockville High School
+346,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,GED,Silver Spring,MD,20904,Montgomery,
+347,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day & Evening,Engineering Science (AA & AS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20910,Montgomery,Bethesda Chevy Chase High Schl
+348,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Cybersecurity (AAS),21 - 24,Other State,Silver Spring,MD,20904,Montgomery,
+349,2015,New,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Poolesville,MD,20837,Montgomery,Poolesville Jr-Sr High School
+350,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,Computer Science - Computer Programming (CT),25 - 29,MCPS,Rockville,MD,20853,Montgomery,Rockville High School
+351,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Bethesda,MD,20817,Montgomery,Walt Whitman High School
+352,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,Photography (CT),30 or Older,Other State,Derwood,MD,20855,Montgomery,
+353,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Montgomery Village,MD,20886,Montgomery,
+354,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),21 - 24,MCPS,Clarksburg,MD,20871,Montgomery,Clarksburg High School
+355,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Evening Only,Early Childhood Education (AA & AAS),30 or Older,Mont.County Other,Rockville,MD,20851,Montgomery,
+356,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Evening Only,General Studies (AA - All Tracks),25 - 29,MCPS,Germantown,MD,20876,Montgomery,Paint Branch High School
+357,2015,New,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Accounting (AA & AAS),30 or Older,Foreign Country,Takoma Park,MD,20912,Montgomery,
+358,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+359,2015,Continuing,Part-Time,Female,Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20903,Montgomery,Springbrook Sr High School
+360,2015,New,Full-Time,Female,Not Hispanic,Black,No,Yes,Yes,Evening Only,Science (AS - All Tracks),30 or Older,Foreign Country,Burtonsville,MD,20866,Montgomery,
+361,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Science (AS - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Watkins Mill High School
+362,2015,New,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+363,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Beltsville,MD,20705,Prince George's,Montgomery Blair High School
+364,2015,New,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+365,2015,New,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,Foreign Country,Takoma Park,MD,20912,Montgomery,
+366,2015,New,Full-Time,Male,Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,Other Maryland,Silver Spring,MD,20901,Montgomery,
+367,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Evening Only,Business / International Business (AA),30 or Older,Foreign Country,Germantown,MD,20874,Montgomery,
+368,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,No,No,Day Only,Cybersecurity (AAS),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Quince Orchard Sr High School
+369,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Chevy Chase,MD,20815,Montgomery,Walter Johnson High School
+370,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,Yes,No Specific Time[online],Health Sciences (Pre-Clinical Studies),30 or Older,Other State,Hyattsville,MD,20785,Prince George's,
+371,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+372,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",25 - 29,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+373,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,Mont.County Other,Silver Spring,MD,20902,Montgomery,
+374,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,Yes,Day Only,Communication Studies (AA),21 - 24,Other Maryland,New Carrollton,MD,20784,Prince George's,
+375,2015,Continuing,Part-Time,Female,Hispanic,Pacific Islander,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Richard Montgomery High School
+376,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,Foreign Country,Silver Spring,MD,20904,Montgomery,
+377,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Brookeville,MD,20833,Montgomery,Sherwood High School
+378,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+379,2015,New,Full-Time,Female,Not Hispanic,Black,Yes,Yes,Yes,No Specific Time[online],General Studies (AA - All Tracks),30 or Older,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+380,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Brookeville,MD,20833,Montgomery,James Hubert Blake High School
+381,2015,New,Full-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),30 or Older,Foreign Country,Rockville,MD,20850,Montgomery,
+382,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),25 - 29,Home-Schooled,Germantown,MD,20876,Montgomery,
+383,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,GED,Gaithersburg,MD,20877,Montgomery,
+384,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),25 - 29,Foreign Country,Clarksburg,MD,20871,Montgomery,
+385,2015,New,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Criminal Justice (AA & AAS),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Springbrook Sr High School
+386,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day & Evening,Arts & Sciences Transfer (AA - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20904,Montgomery,
+387,2015,New,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other State,Gaithersburg,MD,20879,Montgomery,
+388,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,Foreign Country,Rockville,MD,20850,Montgomery,
+389,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Springbrook Sr High School
+390,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20876,Montgomery,Watkins Mill High School
+391,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),21 - 24,Other State,Silver Spring,MD,20903,Montgomery,
+392,2015,New,Part-Time,Female,Not Hispanic,Asian,No,No,Yes,Day Only,Nursing (AA & AAS),21 - 24,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+393,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+394,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,Yes,Day Only,Health Sciences (Pre-Clinical Studies),21 - 24,Foreign Country,Silver Spring,MD,20906,Montgomery,
+395,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,No Specific Time[online],Cybersecurity (AAS),30 or Older,Foreign Country,Germantown,MD,20874,Montgomery,
+396,2015,New,Part-Time,Male,Not Hispanic,Multi-Race,Yes,Yes,No,Day Only,Cybersecurity (AAS),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+397,2015,New,Full-Time,Female,Hispanic,White,No,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Montgomery Blair High School
+398,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,MCPS,Burtonsville,MD,20866,Montgomery,Seneca Valley High School
+399,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day & Evening,Engineering Science (AA & AS - All Tracks),21 - 24,MCPS,Germantown,MD,20876,Montgomery,Quince Orchard Sr High School
+400,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,Foreign Country,Takoma Park,MD,20912,Montgomery,
+401,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Credit (Undeclared / Undecided),25 - 29,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+402,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Evening Only,Science (AS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+403,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),30 or Older,Other State,Silver Spring,MD,20901,Montgomery,
+404,2015,New,Part-Time,Male,Hispanic,White,Yes,Yes,No,Day & Evening,Criminal Justice (AA & AAS),20 or Younger,MCPS,Damascus,MD,20872,Montgomery,Damascus High School
+405,2015,Transfer no degree,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Richard Montgomery High School
+406,2015,New,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+407,2015,New,Full-Time,Male,Hispanic,White,No,Yes,No,Day & Evening,Automotive Technology (CT),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+408,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),25 - 29,Foreign Country,Silver Spring,MD,20902,Montgomery,
+409,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Evening Only,General Studies (AA - All Tracks),30 or Older,Other State,Gaithersburg,MD,20878,Montgomery,
+410,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day & Evening,Building Trades Technology (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20910,Montgomery,
+411,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Dickerson,MD,20842,Montgomery,Poolesville Jr-Sr High School
+412,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,Foreign Country,Rockville,MD,20852,Montgomery,
+413,2015,Continuing,Part-Time,Male,Hispanic,White,Yes,No,Yes,No Specific Time[online],Business / International Business (AA),21 - 24,MCPS,Silver Spring,MD,20904,Montgomery,Paint Branch High School
+414,2015,Transfer no degree,Part-Time,Female,Not Hispanic,Black,Yes,No,Yes,Day & Evening,Criminal Justice (AA & AAS),21 - 24,Other State,Washington,DC,20020,Other,
+415,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,MCPS,Germantown,MD,20874,Montgomery,Colonel Zadok Magruder HS
+416,2015,Transfer no degree,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Rockville,MD,20851,Montgomery,
+417,2015,New,Part-Time,Male,Not Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other Maryland,University Park,MD,20782,Prince George's,
+418,2015,Continuing,Part-Time,Female,Hispanic,Black,Yes,No,No,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,Foreign Country,Rockville,MD,20851,Montgomery,
+419,2015,Transfer no degree,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Evening Only,Science (AS - All Tracks),21 - 24,Other State,Hyattsville,MD,20782,Prince George's,
+420,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Cybersecurity (AAS),20 or Younger,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+421,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20853,Montgomery,Wheaton High School
+422,2015,New,Part-Time,Female,Hispanic,White,Yes,No,No,Evening Only,General Studies (AA - All Tracks),25 - 29,GED,Silver Spring,MD,20904,Montgomery,
+423,2015,Continuing,Part-Time,Female,Hispanic,White,No,No,Yes,Day Only,Nursing (AA & AAS),21 - 24,GED,Rockville,MD,20850,Montgomery,
+424,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Photography (CT),20 or Younger,Other State,Damascus,MD,20872,Montgomery,
+425,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,GED,Olney,MD,20832,Montgomery,
+426,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,Yes,No,Evening Only,General Studies (AA - All Tracks),21 - 24,MCPS,Montgomery Village,MD,20886,Montgomery,Watkins Mill High School
+427,2015,Continuing,Full-Time,Female,Hispanic,White,Yes,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+428,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Quince Orchard Sr High School
+429,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Foreign Country,Silver Spring,MD,20906,Montgomery,
+430,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),20 or Younger,MCPS,Burtonsville,MD,20866,Montgomery,Paint Branch High School
+431,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Evening Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other Maryland,Temple Hills,MD,20748,Prince George's,
+432,2015,Continuing,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Montgomery Village,MD,20886,Montgomery,Seneca Valley High School
+433,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+434,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Takoma Park,MD,20912,Montgomery,Montgomery Blair High School
+435,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,Studio Art (AFA) - School of Art & Design,21 - 24,Other State,Riverdale,MD,20737,Prince George's,
+436,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,Other Maryland,Montgomery Village,MD,20886,Montgomery,
+437,2015,New,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,Other State,Washington,DC,20019,Other,
+438,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,No,Yes,No Specific Time[online],Arts & Sciences Transfer (AA - All Tracks),30 or Older,Other State,Rockville,MD,20852,Montgomery,
+439,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20904,Montgomery,
+440,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20904,Montgomery,
+441,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Rockville,MD,20851,Montgomery,Richard Montgomery High School
+442,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Rockville,MD,20851,Montgomery,Richard Montgomery High School
+443,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,Photography (CT),25 - 29,MCPS,Potomac,MD,20854,Montgomery,Walter Johnson High School
+444,2015,Transfer no degree,Part-Time,Female,Hispanic,White,Yes,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,Other State,Greenbelt,MD,20770,Prince George's,
+445,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Boyds,MD,20841,Montgomery,
+446,2015,Continuing,Part-Time,Male,Unknown,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Washington,DC,20020,Other,
+447,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+448,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Rockville,MD,20850,Montgomery,
+449,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Evening Only,Computer Science & Technologies (AA - All Tracks),21 - 24,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+450,2015,New,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+451,2015,Continuing,Part-Time,Female,Hispanic,Multi-Race,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+452,2015,New,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day & Evening,Automotive Technology (CT),30 or Older,Foreign Country,Montgomery Village,MD,20886,Montgomery,
+453,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",25 - 29,Other Maryland,Glenarden,MD,20706,Prince George's,
+454,2015,New,Part-Time,Female,Hispanic,White,No,No,Yes,Day Only,Early Childhood Education (AA & AAS),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,Wheaton High School
+455,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),30 or Older,Other Maryland,Germantown,MD,20876,Montgomery,
+456,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),30 or Older,Other State,Beltsville,MD,20705,Prince George's,
+457,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Sandy Spring,MD,20860,Montgomery,Sherwood High School
+458,2015,New,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Takoma Park,MD,20912,Montgomery,Northwood High School
+459,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),25 - 29,Foreign Country,North Potomac,MD,20878,Montgomery,
+460,2015,New,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20882,Montgomery,Rockville High School
+461,2015,New,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",20 or Younger,MCPS,Bethesda,MD,20817,Montgomery,Walt Whitman High School
+462,2015,Continuing,Full-Time,Female,Hispanic,Native American,No,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Other Maryland,Hyattsville,MD,20782,Prince George's,
+463,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,Foreign Country,Rockville,MD,20853,Montgomery,
+464,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,Yes,No,Evening Only,General Studies (AA - All Tracks),25 - 29,GED,Silver Spring,MD,20906,Montgomery,
+465,2015,Continuing,Part-Time,Female,Unknown,Black,Yes,No,No,Day Only,Accounting (CT),25 - 29,GED,Boyds,MD,20841,Montgomery,
+466,2015,New,Full-Time,Female,Hispanic,Asian,No,Yes,No,Day Only,WIA (CE) Programs,25 - 29,Foreign Country,Rockville,MD,20850,Montgomery,
+467,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other State,Germantown,MD,20876,Montgomery,
+468,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20904,Montgomery,Paint Branch High School
+469,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,No,Yes,Evening Only,Criminal Justice (AA & AAS),30 or Older,MCPS,Kensington,MD,20895,Montgomery,Bethesda Chevy Chase High Schl
+470,2015,New,Part-Time,Male,Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Northwood High School
+471,2015,Transfer no degree,Part-Time,Unknown,Unknown,Unknown,No,No,Yes,Day & Evening,Computer Gaming & Simulation (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+472,2015,Continuing,Full-Time,Male,Hispanic,White,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+473,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,Yes,Day & Evening,Radiologic (X-Ray) Technology (AA & AAS),25 - 29,Other State,Bethesda,MD,20817,Montgomery,
+474,2015,Transfer no degree,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,Home-Schooled,Bethesda,MD,20814,Montgomery,
+475,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,No Specific Time[online],Education / Teacher Education (AA & AAT),25 - 29,MCPS,Gaithersburg,MD,20877,Montgomery,Bethesda Chevy Chase High Schl
+476,2015,Continuing,Part-Time,Female,Hispanic,Native American,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20910,Montgomery,Montgomery Blair High School
+477,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Evening Only,Computer Applications (AA & AAS),20 or Younger,Other Maryland,Hyattsville,MD,20784,Prince George's,
+478,2015,New,Part-Time,Female,Hispanic,White,No,No,Yes,Evening Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other Maryland,Silver Spring,MD,20904,Montgomery,
+479,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,Other State,Gaithersburg,MD,20877,Montgomery,
+480,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,No,Yes,No Specific Time[online],Health Information Management (AA & AAS),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,Rockville High School
+481,2015,Continuing,Part-Time,Female,Unknown,Unknown,No,Yes,No,Day Only,Credit (Undeclared / Undecided),21 - 24,Foreign Country,Bethesda,MD,20817,Montgomery,
+482,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,No,Yes,Evening Only,General Studies (AA - All Tracks),30 or Older,Other State,Brentwood,MD,20722,Prince George's,
+483,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,Science (AS - All Tracks),21 - 24,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+484,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20902,Montgomery,
+485,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Accounting (CT),30 or Older,Foreign Country,Rockville,MD,20853,Montgomery,
+486,2015,New,Part-Time,Male,Not Hispanic,White,No,No,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+487,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+488,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,No,No,Day Only,Music Transfer (CT),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Seneca Valley High School
+489,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Science (AS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+490,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Business / International Business (AA),21 - 24,Foreign Country,Silver Spring,MD,20904,Montgomery,
+491,2015,Transfer no degree,Part-Time,Female,Not Hispanic,White,No,No,Yes,Evening Only,Communication Studies (AA),21 - 24,MCPS,Bethesda,MD,20817,Montgomery,Walt Whitman High School
+492,2015,New,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,Other State,Washington,DC,20002,Other,
+493,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Evening Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Damascus,MD,20872,Montgomery,
+494,2015,HS Student,Part-Time,Male,Hispanic,White,Yes,No,No,Day Only,Accounting (CT),20 or Younger,MCPS,Damascus,MD,20872,Montgomery,Damascus High School
+495,2015,New,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day & Evening,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+496,2015,New,Part-Time,Female,Hispanic,White,Yes,No,Yes,No Specific Time[online],Health Sciences (Pre-Clinical Studies),30 or Older,GED,Silver Spring,MD,20906,Montgomery,
+497,2015,Continuing,Part-Time,Female,Hispanic,Native American,No,Yes,No,Day Only,Early Childhood Education (AA & AAS),20 or Younger,Other Maryland,Hyattsville,MD,20783,Prince George's,
+498,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+499,2015,Continuing,Full-Time,Female,Hispanic,Native American,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,John F. Kennedy High School
+500,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),20 or Younger,Other Maryland,Silver Spring,MD,20906,Montgomery,
+501,2015,Transfer no degree,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day & Evening,Architectural & Construction Tech (AA & AAS),21 - 24,Other Maryland,Columbia,MD,21045,Howard,
+502,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,Yes,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Potomac,MD,20854,Montgomery,
+503,2015,Continuing,Full-Time,Female,Hispanic,White,Yes,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),21 - 24,Foreign Country,Gaithersburg,MD,20877,Montgomery,
+504,2015,New,Part-Time,Male,Hispanic,Pacific Islander,Yes,No,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,Other State,Gaithersburg,MD,20879,Montgomery,
+505,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+506,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Rockville,MD,20852,Montgomery,
+507,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+508,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Evening Only,Microcomputer Technician (AA & AAS),21 - 24,MCPS,North Potomac,MD,20878,Montgomery,Quince Orchard Sr High School
+509,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,Home-Schooled,Gaithersburg,MD,20879,Montgomery,
+510,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Computer Science - Computer Programming (CT),21 - 24,Foreign Country,Germantown,MD,20874,Montgomery,
+511,2015,Continuing,Part-Time,Male,Not Hispanic,Multi-Race,Yes,Yes,No,Day & Evening,Business / International Business (AA),21 - 24,Other State,Owings Mills,MD,21117,Baltimore,
+512,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,Foreign Country,Bethesda,MD,20817,Montgomery,
+513,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,No,Yes,Day & Evening,Early Childhood Education (CT),21 - 24,MCPS,Silver Spring,MD,20901,Montgomery,Montgomery Blair High School
+514,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Home-Schooled,Silver Spring,MD,20906,Montgomery,
+515,2015,Continuing,Part-Time,Female,Not Hispanic,Multi-Race,No,Yes,Yes,Day & Evening,"Graphic Design (AA, AAS, & AFA - All Tracks)",30 or Older,Other State,Silver Spring,MD,20903,Montgomery,
+516,2015,New,Part-Time,Male,Not Hispanic,Black,Yes,No,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+517,2015,Continuing,Full-Time,Male,Hispanic,White,Yes,Yes,No,Day Only,Architectural & Construction Tech (AA & AAS),25 - 29,Foreign Country,Bethesda,MD,20814,Montgomery,
+518,2015,New,Part-Time,Female,Hispanic,White,No,Yes,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other Maryland,Silver Spring,MD,20906,Montgomery,
+519,2015,New,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Laytonsville,MD,20882,Montgomery,
+520,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Other Maryland,Bethesda,MD,20817,Montgomery,
+521,2015,New,Full-Time,Male,Hispanic,Native American,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Takoma Park,MD,20912,Montgomery,Northwood High School
+522,2015,Transfer no degree,Part-Time,Male,Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Other State,Germantown,MD,20876,Montgomery,
+523,2015,Continuing,Part-Time,Female,Hispanic,Native American,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Montgomery Blair High School
+524,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,Yes,No,Evening Only,Cybersecurity (AAS),30 or Older,Other State,Gaithersburg,MD,20878,Montgomery,
+525,2015,New,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+526,2015,Transfer no degree,Part-Time,Female,Not Hispanic,Black,No,No,Yes,No Specific Time[online],Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Pikesville,MD,21208,Baltimore,
+527,2015,Continuing,Full-Time,Female,Hispanic,White,No,Yes,No,Evening Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Northwood High School
+528,2015,New,Part-Time,Male,Not Hispanic,Asian,Yes,No,No,Day Only,Cybersecurity (AAS),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+529,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,Credit (Undeclared / Undecided),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Rockville High School
+530,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other State,Montgomery Village,MD,20886,Montgomery,
+531,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,MCPS,Gaithersburg,MD,20879,Montgomery,Damascus High School
+532,2015,New,Part-Time,Female,Not Hispanic,White,No,No,Yes,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,Other State,Germantown,MD,20874,Montgomery,
+533,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,Yes,No Specific Time[online],"Fire Sci./Preven., Emerg. Prepare. (AA, AS & AAS)",30 or Older,Other Maryland,Boonsboro,MD,21713,Washington,
+534,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),30 or Older,Foreign Country,Gaithersburg,MD,20877,Montgomery,
+535,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+536,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,Yes,Yes,No,Day Only,Science (AS - All Tracks),25 - 29,Foreign Country,Gaithersburg,MD,20879,Montgomery,
+537,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,No,No,Evening Only,Cybersecurity (AAS),25 - 29,MCPS,Gaithersburg,MD,20879,Montgomery,Northwest HS - Germantown
+538,2015,New,Full-Time,Female,Not Hispanic,Multi-Race,No,No,Yes,Day & Evening,Science (AS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20903,Montgomery,Springbrook Sr High School
+539,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Silver Spring,MD,20904,Montgomery,
+540,2015,New,Part-Time,Male,Hispanic,White,Yes,Yes,Yes,Day & Evening,Business / International Business (AA),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+541,2015,Transfer with degree,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+542,2015,New,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+543,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,Graphic Design (AFA) - School of Art & Design,21 - 24,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+544,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day & Evening,Studio Art (AFA),30 or Older,MCPS,Gaithersburg,MD,20877,Montgomery,Watkins Mill High School
+545,2015,Transfer no degree,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Computer Science & Technologies (AA - All Tracks),21 - 24,MCPS,Takoma Park,MD,20912,Montgomery,Northwood High School
+546,2015,Continuing,Full-Time,Male,Not Hispanic,Multi-Race,Yes,Yes,No,Day Only,Mental Health Associate (AA & AAS),25 - 29,MCPS,Bethesda,MD,20817,Montgomery,Walt Whitman High School
+547,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Evening Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Wheaton High School
+548,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,Yes,Day Only,Science (AS - All Tracks),21 - 24,Mont.County Other,Silver Spring,MD,20901,Montgomery,
+549,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),21 - 24,Other State,Rockville,MD,20852,Montgomery,
+550,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day & Evening,Business / International Business (AA),25 - 29,MCPS,Germantown,MD,20876,Montgomery,Seneca Valley High School
+551,2015,New,Part-Time,Male,Hispanic,White,No,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+552,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,American Sign Language (AA & AAS),30 or Older,Mont.County Other,Germantown,MD,20876,Montgomery,
+553,2015,New,Part-Time,Female,Hispanic,White,No,No,Yes,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Kensington,MD,20895,Montgomery,Albert Einstein HS & MC Art Cn
+554,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,No Specific Time[online],Health Sciences (Pre-Clinical Studies),30 or Older,Other Maryland,Hyattsville,MD,20785,Prince George's,
+555,2015,New,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,Rockville High School
+556,2015,Continuing,Full-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+557,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),21 - 24,MCPS,Gaithersburg,MD,20877,Montgomery,Albert Einstein HS & MC Art Cn
+558,2015,Transfer no degree,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Gaithersburg,MD,20879,Montgomery,
+559,2015,New,Part-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Kensington,MD,20895,Montgomery,Montgomery Blair High School
+560,2015,Transfer with degree,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,No Specific Time[online],Computer Science - Computer Programming (CT),21 - 24,MCPS,Rockville,MD,20852,Montgomery,Albert Einstein HS & MC Art Cn
+561,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Day Only,Criminal Justice (AA & AAS),21 - 24,MCPS,Silver Spring,MD,20905,Montgomery,James Hubert Blake High School
+562,2015,Continuing,Part-Time,Male,Hispanic,Multi-Race,No,No,Yes,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,Other State,Silver Spring,MD,20902,Montgomery,
+563,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Foreign Country,Clarksburg,MD,20871,Montgomery,
+564,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day & Evening,Computer Gaming & Simulation (AA - All Tracks),20 or Younger,MCPS,Kensington,MD,20895,Montgomery,Albert Einstein HS & MC Art Cn
+565,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Automotive Technology (AA & AAS),20 or Younger,Mont.County Other,Rockville,MD,20851,Montgomery,
+566,2015,New,Part-Time,Female,Not Hispanic,Multi-Race,No,No,Yes,Day & Evening,Health Sciences (Pre-Clinical Studies),30 or Older,Other State,Washington,DC,20012,Other,
+567,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Other Maryland,Silver Spring,MD,20902,Montgomery,
+568,2015,New,Full-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Bethesda,MD,20817,Montgomery,Walter Johnson High School
+569,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,Business / International Business (AA),30 or Older,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+570,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+571,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,No,No,Evening Only,Science (AS - All Tracks),21 - 24,MCPS,Germantown,MD,20876,Montgomery,Seneca Valley High School
+572,2015,New,Full-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,Other Maryland,Gaithersburg,MD,20882,Montgomery,
+573,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Mental Health Associate (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20901,Montgomery,
+574,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,Yes,No,Day & Evening,Computer Science & Technologies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20853,Montgomery,Walter Johnson High School
+575,2015,Continuing,Part-Time,Male,Not Hispanic,Unknown,No,Yes,No,Day Only,General Studies (AA - All Tracks),30 or Older,MCPS,North Potomac,MD,20878,Montgomery,Walt Whitman High School
+576,2015,Transfer with degree,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,No Specific Time[online],Arts & Sciences Transfer (CT),25 - 29,Other State,Clarksburg,MD,20871,Montgomery,
+577,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Microcomputer Technician (AA & AAS),30 or Older,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+578,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,Yes,Day & Evening,Science (AS - All Tracks),25 - 29,MCPS,Bethesda,MD,20814,Montgomery,Walt Whitman High School
+579,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Commun & Broadcasting Tech (AA & AAS - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+580,2015,Continuing,Part-Time,Male,Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Montgomery Blair High School
+581,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Computer Applications (AA & AAS),21 - 24,Other Maryland,Lanham,MD,20706,Prince George's,
+582,2015,New,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,MCPS,Bethesda,MD,20817,Montgomery,Northwest HS - Germantown
+583,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Science (AS - All Tracks),21 - 24,Foreign Country,Gaithersburg,MD,20879,Montgomery,
+584,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,Yes,Day & Evening,Arts & Sciences Transfer (AA - All Tracks),21 - 24,Other State,Washington,DC,20015,Other,
+585,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+586,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+587,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Colonel Zadok Magruder HS
+588,2015,New,Full-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Arts & Sciences Transfer (CT),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+589,2015,Continuing,Part-Time,Male,Unknown,Black,No,No,Yes,Day Only,Credit (Undeclared / Undecided),21 - 24,MCPS,Silver Spring,MD,20904,Montgomery,Montgomery Blair High School
+590,2015,Transfer,Part-Time,Male,Not Hispanic,White,No,No,Yes,Evening Only,General Studies (AA - All Tracks),21 - 24,MCPS,Chevy Chase,MD,20815,Montgomery,Bethesda Chevy Chase High Schl
+591,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+592,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+593,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,Criminal Justice (AA & AAS),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,Wheaton High School
+594,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Kensington,MD,20895,Montgomery,Albert Einstein HS & MC Art Cn
+595,2015,New,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Science (AS - All Tracks),20 or Younger,Other Maryland,Riverdale,MD,20737,Prince George's,
+596,2015,Transfer no degree,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),25 - 29,Other State,North Bethesda,MD,20852,Montgomery,
+597,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,John F. Kennedy High School
+598,2015,Continuing,Part-Time,Male,Hispanic,Pacific Islander,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+599,2015,Continuing,Part-Time,Male,Hispanic,Pacific Islander,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+600,2015,Continuing,Full-Time,Female,Hispanic,White,Yes,Yes,No,Day & Evening,Hospitality Management (AA & AAS),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Watkins Mill High School
+601,2015,New,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+602,2015,HS Student,Part-Time,Male,Not Hispanic,White,Yes,No,Yes,Day & Evening,Science (AS - All Tracks),20 or Younger,MCPS,,MD,,Montgomery,Albert Einstein HS & MC Art Cn
+603,2015,Transfer no degree,Full-Time,Female,Not Hispanic,White,No,Yes,Yes,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,Other Maryland,Silver Spring,MD,20904,Montgomery,
+604,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,Nursing (AA & AAS),21 - 24,Mont.County Other,Silver Spring,MD,20901,Montgomery,
+605,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,Other Maryland,Silver Spring,MD,20903,Montgomery,
+606,2015,Continuing,Full-Time,Female,Unknown,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Foreign Country,Silver Spring,MD,20910,Montgomery,
+607,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Health Sciences (Pre-Clinical Studies),25 - 29,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+608,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,No Specific Time[online],Digital Media & Web Technology (CT),21 - 24,MCPS,Gaithersburg,MD,20878,Montgomery,Northwest HS - Germantown
+609,2015,New,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,Criminal Justice (AA & AAS),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+610,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Evening Only,Building Trades Technology (AA & AAS),30 or Older,Foreign Country,Rockville,MD,20855,Montgomery,
+611,2015,New,Part-Time,Male,Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other Maryland,Hyattsville,MD,20781,Prince George's,
+612,2015,Continuing,Part-Time,Female,Unknown,White,Yes,No,No,Day Only,Business / International Business (AA),21 - 24,MCPS,Boyds,MD,20841,Montgomery,Seneca Valley High School
+613,2015,Continuing,Part-Time,Female,Unknown,White,No,No,Yes,Day Only,Nursing (AA & AAS),21 - 24,MCPS,Gaithersburg,MD,20879,Montgomery,Colonel Zadok Magruder HS
+614,2015,HS Student,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,John F. Kennedy High School
+615,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,No Specific Time[online],Credit (Undeclared / Undecided),30 or Older,Foreign Country,North Potomac,MD,20878,Montgomery,
+616,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+617,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+618,2015,Continuing,Part-Time,Female,Unknown,Black,No,No,Yes,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Gaithersburg,MD,20877,Montgomery,
+619,2015,Transfer no degree,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),21 - 24,Mont.County Other,Germantown,MD,20874,Montgomery,
+620,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",21 - 24,MCPS,North Potomac,MD,20878,Montgomery,Quince Orchard Sr High School
+621,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Credit (Undeclared / Undecided),21 - 24,Foreign Country,Rockville,MD,20853,Montgomery,
+622,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Chevy Chase,MD,20815,Montgomery,Bethesda Chevy Chase High Schl
+623,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),30 or Older,MCPS,Silver Spring,MD,20905,Montgomery,Paint Branch High School
+624,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,Yes,No,Evening Only,Computer Applications (AA & AAS),30 or Older,MCPS,,MD,,Montgomery,Damascus High School
+625,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other State,Germantown,MD,20874,Montgomery,
+626,2015,New,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,GED,Upper Marlboro,MD,20774,Prince George's,
+627,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,Yes,Day Only,Science (AS - All Tracks),21 - 24,Foreign Country,Bethesda,MD,20816,Montgomery,
+628,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20910,Montgomery,Bethesda Chevy Chase High Schl
+629,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other State,Washington,DC,20020,Other,
+630,2015,Continuing,Full-Time,Male,Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Wheaton High School
+631,2015,New,Full-Time,Male,Hispanic,Native American,No,Yes,No,Day & Evening,Computer Science - Computer Programming (CT),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+632,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Boyds,MD,20841,Montgomery,Clarksburg High School
+633,2015,HS Student,Part-Time,Male,Not Hispanic,Asian,Yes,No,No,Day Only,Cybersecurity (AAS),20 or Younger,MCPS,Boyds,MD,20841,Montgomery,Northwest HS - Germantown
+634,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+635,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,Other Maryland,Beltsville,MD,20705,Prince George's,
+636,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,Other Maryland,Takoma Park,MD,20912,Montgomery,
+637,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Bethesda,MD,20814,Montgomery,Bethesda Chevy Chase High Schl
+638,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+639,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+640,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,No,Yes,No Specific Time[online],Business / International Business (AA),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Gaithersburg High School
+641,2015,New,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Education / Teacher Education (AA & AAT),30 or Older,Foreign Country,Germantown,MD,20874,Montgomery,
+642,2015,New,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Commun & Broadcasting Tech (AA & AAS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+643,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,Yes,Yes,No,Day & Evening,Business / International Business (AA),21 - 24,MCPS,Gaithersburg,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+644,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+645,2015,New,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Digital Media & Web Technology (CT),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Watkins Mill High School
+646,2015,New,Full-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+647,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Evening Only,Automotive Technology (AA & AAS),21 - 24,MCPS,Potomac,MD,20854,Montgomery,Thomas Sprigg Wootton High Sch
+648,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,Foreign Country,Silver Spring,MD,20906,Montgomery,
+649,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,Foreign Country,Silver Spring,MD,20906,Montgomery,
+650,2015,Transfer no degree,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Photography (AA & AAS),21 - 24,Other State,Rockville,MD,20853,Montgomery,
+651,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Day Only,Mental Health Associate (AA & AAS),21 - 24,Other State,Takoma Park,MD,20912,Montgomery,
+652,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day & Evening,Mental Health Associate (AA & AAS),30 or Older,Other State,Washington,DC,20002,Other,
+653,2015,Continuing,Part-Time,Male,Unknown,Black,Yes,No,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+654,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Rockville,MD,20851,Montgomery,
+655,2015,New,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Criminal Justice (AA & AAS),20 or Younger,Other Maryland,,MD,,Montgomery,
+656,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other State,Beltsville,MD,20705,Prince George's,
+657,2015,Transfer,Part-Time,Male,Not Hispanic,White,No,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,Other State,Silver Spring,MD,20904,Montgomery,
+658,2015,HS Student,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+659,2015,HS Student,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+660,2015,HS Student,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+661,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,Management (CT),21 - 24,MCPS,Burtonsville,MD,20866,Montgomery,Paint Branch High School
+662,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Gaithersburg,MD,20879,Montgomery,Colonel Zadok Magruder HS
+663,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other Maryland,Laurel,MD,20707,Prince George's,
+664,2015,New,Full-Time,Female,Not Hispanic,Multi-Race,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+665,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),25 - 29,GED,Brinklow,MD,20862,Montgomery,
+666,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Other State,Silver Spring,MD,20906,Montgomery,
+667,2015,New,Full-Time,Male,Hispanic,White,Yes,No,No,Day & Evening,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Clarksburg,MD,20871,Montgomery,Clarksburg High School
+668,2015,Continuing,Part-Time,Male,Not Hispanic,Multi-Race,Yes,No,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),20 or Younger,MCPS,Boyds,MD,20841,Montgomery,Northwest HS - Germantown
+669,2015,New,Full-Time,Male,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+670,2015,New,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,Cybersecurity (AAS),20 or Younger,Foreign Country,Germantown,MD,20876,Montgomery,
+671,2015,Continuing,Full-Time,Male,Not Hispanic,Unknown,Yes,Yes,No,Day & Evening,Engineering Science (AA & AS - All Tracks),21 - 24,MCPS,Boyds,MD,20841,Montgomery,Poolesville Jr-Sr High School
+672,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Microcomputer Technician (CT),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+673,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+674,2015,New,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,Studio Art (AFA),20 or Younger,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+675,2015,New,Part-Time,Male,Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20910,Montgomery,Bethesda Chevy Chase High Schl
+676,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,Yes,No,Evening Only,Biotechnology (AA & AAS),30 or Older,MCPS,Germantown,MD,20874,Montgomery,John F. Kennedy High School
+677,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Silver Spring,MD,20904,Montgomery,
+678,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Silver Spring,MD,20904,Montgomery,
+679,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,Business / International Business (AA),21 - 24,Mont.County Other,Potomac,MD,20854,Montgomery,
+680,2015,Transfer with degree,Part-Time,Female,Not Hispanic,White,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Quince Orchard Sr High School
+681,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,Polysomnography Technology (CT),20 or Younger,Foreign Country,Silver Spring,MD,20910,Montgomery,
+682,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Richard Montgomery High School
+683,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Northwood High School
+684,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,No,No,Day & Evening,Cybersecurity (AAS),21 - 24,Other State,Montgomery Village,MD,20886,Montgomery,
+685,2015,Continuing,Part-Time,Male,Hispanic,Asian,No,Yes,No,Day Only,Microcomputer Technician (AA & AAS),21 - 24,MCPS,Rockville,MD,20853,Montgomery,Wheaton High School
+686,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day & Evening,Computer Gaming & Simulation (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+687,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Montgomery Blair High School
+688,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+689,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,Architectural & Construction Tech (AA & AAS),25 - 29,Foreign Country,Silver Spring,MD,20904,Montgomery,
+690,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Paint Branch High School
+691,2015,New,Part-Time,Female,Hispanic,White,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other Maryland,Hyattsville,MD,20781,Prince George's,
+692,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,No,Yes,Day Only,Commun & Broadcasting Tech (AA & AAS - All Tracks),20 or Younger,Other Maryland,Beltsville,MD,20705,Prince George's,
+693,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,MCPS,Rockville,MD,20855,Montgomery,Walt Whitman High School
+694,2015,New,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20903,Montgomery,Springbrook Sr High School
+695,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,No Specific Time[online],General Studies (AA - All Tracks),30 or Older,MCPS,Germantown,MD,20874,Montgomery,Richard Montgomery High School
+696,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Northwood High School
+697,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Evening Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Clarksburg,MD,20871,Montgomery,Clarksburg High School
+698,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",30 or Older,Foreign Country,Rockville,MD,20852,Montgomery,
+699,2015,Transfer with degree,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),30 or Older,Other State,Potomac,MD,20854,Montgomery,
+700,2015,Continuing,Full-Time,Female,Not Hispanic,Multi-Race,Yes,Yes,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,John F. Kennedy High School
+701,2015,Transfer no degree,Part-Time,Female,Not Hispanic,White,No,No,Yes,No Specific Time[online],General Studies (AA - All Tracks),30 or Older,Other State,Rockville,MD,20853,Montgomery,
+702,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Evening Only,General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Quince Orchard Sr High School
+703,2015,New,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Computer Applications (AA & AAS),20 or Younger,Other State,Washington,DC,20011,Other,
+704,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,GED,Silver Spring,MD,20903,Montgomery,
+705,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Evening Only,Education / Teacher Education (AA & AAT),30 or Older,Foreign Country,Rockville,MD,20850,Montgomery,
+706,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,Accounting (AA & AAS),20 or Younger,Other State,Hyattsville,MD,20783,Prince George's,
+707,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),25 - 29,MCPS,Silver Spring,MD,20902,Montgomery,Wheaton High School
+708,2015,Continuing,Part-Time,Male,Hispanic,Native American,Yes,No,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Gaithersburg,MD,20879,Montgomery,Watkins Mill High School
+709,2015,Continuing,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Boyds,MD,20841,Montgomery,Northwest HS - Germantown
+710,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Burtonsville,MD,20866,Montgomery,
+711,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20876,Montgomery,Gaithersburg High School
+712,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,Yes,Yes,No,Evening Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Seneca Valley High School
+713,2015,New,Part-Time,Male,Hispanic,Native American,No,No,Yes,Day Only,Cybersecurity (AAS),20 or Younger,Other Maryland,Hyattsville,MD,20783,Prince George's,
+714,2015,New,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Accounting (AA & AAS),20 or Younger,MCPS,Gaithersburg,MD,20882,Montgomery,Damascus High School
+715,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Montgomery Blair High School
+716,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Evening Only,General Studies (AA - All Tracks),25 - 29,MCPS,Boyds,MD,20841,Montgomery,Walter Johnson High School
+717,2015,Transfer no degree,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Evening Only,Health Sciences (Pre-Clinical Studies),25 - 29,Foreign Country,Silver Spring,MD,20901,Montgomery,
+718,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,No Specific Time[online],Criminal Justice (AA & AAS),20 or Younger,Other State,Bowie,MD,20721,Prince George's,
+719,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Gaithersburg,MD,20877,Montgomery,
+720,2015,New,Full-Time,Male,Not Hispanic,White,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Other Maryland,Gaithersburg,MD,20882,Montgomery,
+721,2015,Continuing,Full-Time,Female,Unknown,Asian,Yes,Yes,No,Day Only,Education / Teacher Education (AA & AAT),21 - 24,Other State,Gaithersburg,MD,20878,Montgomery,
+722,2015,Transfer no degree,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,Science (AS - All Tracks),21 - 24,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+723,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other State,Gaithersburg,MD,20877,Montgomery,
+724,2015,New,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+725,2015,Continuing,Part-Time,Female,Not Hispanic,Multi-Race,No,Yes,No,Day & Evening,Hospitality Management (AA & AAS),30 or Older,Other State,Rockville,MD,20852,Montgomery,
+726,2015,Continuing,Full-Time,Female,Hispanic,White,Yes,Yes,No,Day Only,Business / International Business (AA),25 - 29,Other State,Gaithersburg,MD,20879,Montgomery,
+727,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,No,No,Evening Only,Early Childhood Education (AA & AAS),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+728,2015,Continuing,Full-Time,Female,Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20903,Montgomery,Wheaton High School
+729,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Commun & Broadcasting Tech (CT),20 or Younger,Other Maryland,Silver Spring,MD,20902,Montgomery,
+730,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+731,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Richard Montgomery High School
+732,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,Yes,Evening Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Albert Einstein HS & MC Art Cn
+733,2015,New,Part-Time,Female,Not Hispanic,Asian,Yes,No,No,Evening Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Colonel Zadok Magruder HS
+734,2015,New,Full-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),25 - 29,Foreign Country,Burtonsville,MD,20866,Montgomery,
+735,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,Education / Teacher Education (AA & AAT),21 - 24,Other Maryland,Bowie,MD,20721,Prince George's,
+736,2015,Transfer with degree,Part-Time,Female,Not Hispanic,White,No,Yes,No,Evening Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",21 - 24,MCPS,Chevy Chase,MD,20815,Montgomery,Bethesda Chevy Chase High Schl
+737,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,Yes,Evening Only,Education / Teacher Education (AA & AAT),30 or Older,Other Maryland,Germantown,MD,20874,Montgomery,
+738,2015,Transfer no degree,Part-Time,Female,Not Hispanic,Multi-Race,No,No,Yes,Evening Only,General Studies (AA - All Tracks),25 - 29,Other State,Hyattsville,MD,20782,Prince George's,
+739,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+740,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,Yes,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Wheaton High School
+741,2015,New,Full-Time,Female,Not Hispanic,Asian,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Watkins Mill High School
+742,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Evening Only,Computer Science & Technologies (AA - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20902,Montgomery,
+743,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20882,Montgomery,Damascus High School
+744,2015,Transfer no degree,Full-Time,Female,Unknown,Black,Yes,Yes,Yes,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Silver Spring,MD,20910,Montgomery,
+745,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,Yes,No Specific Time[online],General Studies (AA - All Tracks),30 or Older,Foreign Country,Germantown,MD,20874,Montgomery,
+746,2015,New/No HS,Part-Time,Female,Unknown,Unknown,No,Yes,No,Evening Only,Health Sciences (Pre-Clinical Studies),30 or Older,Other Maryland,Gaithersburg,MD,20878,Montgomery,
+747,2015,Transfer no degree,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Evening Only,Education / Teacher Education (AA & AAT),20 or Younger,Other State,Gaithersburg,MD,20878,Montgomery,
+748,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+749,2015,Continuing,Full-Time,Female,Hispanic,Asian,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Albert Einstein HS & MC Art Cn
+750,2015,Continuing,Full-Time,Male,Unknown,Asian,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),25 - 29,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+751,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Business / International Business (AA),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Rockville High School
+752,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,No,Day & Evening,Biotechnology (AA & AAS),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+753,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Gaithersburg,MD,20878,Montgomery,
+754,2015,Transfer no degree,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,Foreign Country,Bethesda,MD,20816,Montgomery,
+755,2015,Continuing,Part-Time,Male,Hispanic,White,No,No,Yes,Day Only,Communication Studies (AA),20 or Younger,Other Maryland,Hyattsville,MD,20783,Prince George's,
+756,2015,Continuing,Full-Time,Male,Hispanic,Native American,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Colonel Zadok Magruder HS
+757,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Business / International Business (AA),30 or Older,Foreign Country,Rockville,MD,20850,Montgomery,
+758,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Evening Only,Building Trades Technology (AA & AAS),30 or Older,MCPS,Beltsville,MD,20705,Prince George's,Springbrook Sr High School
+759,2015,HS Student,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Other State,Rockville,MD,20850,Montgomery,
+760,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Day & Evening,Arts & Sciences Transfer (AA - All Tracks),25 - 29,MCPS,Silver Spring,MD,20904,Montgomery,Springbrook Sr High School
+761,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,Architectural & Construction Tech (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20904,Montgomery,
+762,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+763,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,Yes,Day Only,Business / International Business (AA),21 - 24,Foreign Country,Rockville,MD,20851,Montgomery,
+764,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,Yes,Yes,No,Day & Evening,Business / International Business (AA),21 - 24,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+765,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Evening Only,Arts & Sciences Transfer (AA - All Tracks),30 or Older,Foreign Country,Clarksburg,MD,20871,Montgomery,
+766,2015,Continuing,Part-Time,Female,Hispanic,White,Yes,No,Yes,No Specific Time[online],Computer Applications (AA & AAS),21 - 24,MCPS,Takoma Park,MD,20912,Montgomery,Wheaton High School
+767,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,Yes,No Specific Time[online],Health Sciences (Pre-Clinical Studies),30 or Older,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+768,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),21 - 24,MCPS,Potomac,MD,20854,Montgomery,Walt Whitman High School
+769,2015,Continuing,Part-Time,Female,Hispanic,Native American,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Northwood High School
+770,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Evening Only,General Studies (AA - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20910,Montgomery,
+771,2015,Continuing,Full-Time,Male,Not Hispanic,Multi-Race,No,Yes,No,Day & Evening,Applied Geography (AA & AAS),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+772,2015,New,Part-Time,Female,Hispanic,White,Yes,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+773,2015,New,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),25 - 29,Foreign Country,Silver Spring,MD,20906,Montgomery,
+774,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Kensington,MD,20895,Montgomery,
+775,2015,Continuing,Full-Time,Male,Not Hispanic,Black,Yes,No,Yes,Day & Evening,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Rockville,MD,20852,Montgomery,
+776,2015,Continuing,Full-Time,Male,Not Hispanic,Black,Yes,Yes,Yes,No Specific Time[online],Microcomputer Technician (AA & AAS),30 or Older,Other State,Montgomery Village,MD,20886,Montgomery,
+777,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other Maryland,Clarksburg,MD,20871,Montgomery,
+778,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Day Only,Nursing (AA & AAS),25 - 29,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+779,2015,Continuing,Full-Time,Male,Hispanic,White,No,Yes,No,Day Only,Computer Gaming & Simulation (AA - All Tracks),21 - 24,Mont.County Other,Rockville,MD,20853,Montgomery,
+780,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,Yes,No,Day & Evening,Arts & Sciences Transfer (AA - All Tracks),21 - 24,MCPS,Boyds,MD,20841,Montgomery,Northwest HS - Germantown
+781,2015,New,Part-Time,Male,Hispanic,Asian,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+782,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Computer Science & Technologies (AA - All Tracks),30 or Older,Foreign Country,Rockville,MD,20850,Montgomery,
+783,2015,New,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Automotive Technology (AA & AAS),20 or Younger,MCPS,Ashton,MD,20861,Montgomery,Sherwood High School
+784,2015,Continuing,Part-Time,Male,Not Hispanic,Multi-Race,Yes,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,Other State,Germantown,MD,20876,Montgomery,
+785,2015,Continuing,Full-Time,Male,Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+786,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Evening Only,Accounting (AA & AAS),30 or Older,Other State,Silver Spring,MD,20904,Montgomery,
+787,2015,New,Part-Time,Male,Hispanic,White,No,No,Yes,Day Only,Criminal Justice (AA & AAS),20 or Younger,Other State,Hyattsville,MD,20783,Prince George's,
+788,2015,New,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+789,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20906,Montgomery,
+790,2015,HS Student,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Thomas Sprigg Wootton High Sch
+791,2015,HS Student,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Thomas Sprigg Wootton High Sch
+792,2015,HS Student,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Thomas Sprigg Wootton High Sch
+793,2015,New,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,Foreign Country,Silver Spring,MD,20904,Montgomery,
+794,2015,New,Part-Time,Male,Hispanic,White,No,Yes,No,Day Only,Criminal Justice (AA & AAS),20 or Younger,Other Maryland,Laurel,MD,20707,Prince George's,
+795,2015,Continuing,Part-Time,Male,Hispanic,Multi-Race,No,No,Yes,Day Only,Business / International Business (AA),21 - 24,MCPS,Silver Spring,MD,20904,Montgomery,Springbrook Sr High School
+796,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,Yes,Yes,Yes,Evening Only,Business / International Business (AA),30 or Older,Other State,Rockville,MD,20853,Montgomery,
+797,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Colonel Zadok Magruder HS
+798,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,No,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,North Potomac,MD,20878,Montgomery,
+799,2015,New,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,North Potomac,MD,20878,Montgomery,Thomas Sprigg Wootton High Sch
+800,2015,Continuing,Full-Time,Male,Hispanic,White,Yes,No,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Gaithersburg,MD,20882,Montgomery,Gaithersburg High School
+801,2015,New,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,John F. Kennedy High School
+802,2015,New,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,Other Maryland,Lanham,MD,20706,Prince George's,
+803,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day & Evening,Business / International Business (AA),21 - 24,Foreign Country,Silver Spring,MD,20910,Montgomery,
+804,2015,New,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+805,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+806,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+807,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Business / International Business (AA),25 - 29,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+808,2015,New,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Science (AS - All Tracks),20 or Younger,Foreign Country,Montgomery Village,MD,20886,Montgomery,
+809,2015,New,Full-Time,Female,Not Hispanic,Pacific Islander,Yes,Yes,No,Day & Evening,Criminal Justice (AA & AAS),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Watkins Mill High School
+810,2015,Continuing,Part-Time,Male,Hispanic,White,No,No,Yes,Day Only,Business / International Business (AA),20 or Younger,GED,Silver Spring,MD,20905,Montgomery,
+811,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,Mont.County Other,Chevy Chase,MD,20815,Montgomery,
+812,2015,New,Part-Time,Male,Hispanic,Pacific Islander,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Burtonsville,MD,20866,Montgomery,Bethesda Chevy Chase High Schl
+813,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,Engineering Science (AA & AS - All Tracks),21 - 24,Foreign Country,Silver Spring,MD,20904,Montgomery,
+814,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,Yes,Day & Evening,Health Sciences (Pre-Clinical Studies),25 - 29,MCPS,Fort Washington,MD,20744,Prince George's,Rockville High School
+815,2015,Continuing,Part-Time,Female,Unknown,White,Yes,No,No,Evening Only,Hospitality Management (AA & AAS),21 - 24,MCPS,Damascus,MD,20872,Montgomery,Walt Whitman High School
+816,2015,HS Student,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Accounting (CT),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Gaithersburg High School
+817,2015,New,Part-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day & Evening,Business / International Business (AA),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Colonel Zadok Magruder HS
+818,2015,Continuing,Part-Time,Female,Unknown,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,Other Maryland,Silver Spring,MD,20901,Montgomery,
+819,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,No Specific Time[online],General Studies (AA - All Tracks),30 or Older,MCPS,Elkridge,MD,21075,Howard,Northwest HS - Germantown
+820,2015,Continuing,Full-Time,Female,Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+821,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Other State,Germantown,MD,20876,Montgomery,
+822,2015,Continuing,Part-Time,Male,Unknown,White,Yes,No,No,Evening Only,Engineering Science (AA & AS - All Tracks),25 - 29,Other State,Bethesda,MD,20889,Montgomery,
+823,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,Yes,No Specific Time[online],Computer Science & Technologies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20851,Montgomery,Rockville High School
+824,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,No,Day & Evening,Credit (Undeclared / Undecided),25 - 29,MCPS,Gaithersburg,MD,20878,Montgomery,Quince Orchard Sr High School
+825,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20879,Montgomery,Watkins Mill High School
+826,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,Yes,Day Only,General Studies (AA - All Tracks),25 - 29,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+827,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),30 or Older,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+828,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,No,No,Day Only,Business / International Business (AA),20 or Younger,Other State,Washington,DC,20010,Other,
+829,2015,New,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20882,Montgomery,Damascus High School
+830,2015,New,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20882,Montgomery,Damascus High School
+831,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,Engineering Science (AA & AS - All Tracks),21 - 24,Other State,Silver Spring,MD,20910,Montgomery,
+832,2015,Continuing,Full-Time,Female,Hispanic,Native American,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),30 or Older,Foreign Country,Bethesda,MD,20817,Montgomery,
+833,2015,Continuing,Full-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Criminal Justice (AA & AAS),21 - 24,Other State,Germantown,MD,20874,Montgomery,
+834,2015,Continuing,Part-Time,Male,Hispanic,White,Yes,No,No,Day Only,Microcomputer Technician (AA & AAS),20 or Younger,Other State,Damascus,MD,20872,Montgomery,
+835,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),30 or Older,Foreign Country,Germantown,MD,20876,Montgomery,
+836,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,Foreign Country,Bethesda,MD,20817,Montgomery,
+837,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20853,Montgomery,John F. Kennedy High School
+838,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20876,Montgomery,Walt Whitman High School
+839,2015,Continuing,Part-Time,Female,Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other Maryland,Lanham,MD,20706,Prince George's,
+840,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20903,Montgomery,Montgomery Blair High School
+841,2015,New,Part-Time,Male,Hispanic,Black,No,No,Yes,Day & Evening,Credit (Undeclared / Undecided),20 or Younger,MCPS,Silver Spring,MD,20901,Montgomery,John F. Kennedy High School
+842,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,No,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),30 or Older,Other State,Silver Spring,MD,20902,Montgomery,
+843,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,No Specific Time[online],Health Sciences (Pre-Clinical Studies),25 - 29,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+844,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Other State,North Potomac,MD,20878,Montgomery,
+845,2015,New,Full-Time,Male,Not Hispanic,Black,Yes,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+846,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+847,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Studio Art (AFA),21 - 24,Other State,Takoma Park,MD,20912,Montgomery,
+848,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,Yes,No,Evening Only,Health Sciences (Pre-Clinical Studies),30 or Older,GED,Silver Spring,MD,20906,Montgomery,
+849,2015,Continuing,Full-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Olney,MD,20832,Montgomery,Sherwood High School
+850,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,Other Maryland,Germantown,MD,20874,Montgomery,
+851,2015,Continuing,Full-Time,Male,Not Hispanic,Asian,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Bethesda,MD,20814,Montgomery,Walter Johnson High School
+852,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day Only,Business / International Business (AA),21 - 24,MCPS,Rockville,MD,20851,Montgomery,Bethesda Chevy Chase High Schl
+853,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,No,No,Yes,Evening Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Silver Spring,MD,20910,Montgomery,
+854,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Evening Only,Health Sciences (Pre-Clinical Studies),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+855,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Evening Only,General Studies (AA - All Tracks),21 - 24,MCPS,Kensington,MD,20895,Montgomery,Albert Einstein HS & MC Art Cn
+856,2015,New,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Computer Science - Computer Programming (CT),20 or Younger,Other State,Washington,DC,20017,Other,
+857,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,No,Yes,No Specific Time[online],General Studies (AA - All Tracks),25 - 29,MCPS,Potomac,MD,20854,Montgomery,Thomas Sprigg Wootton High Sch
+858,2015,New,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day & Evening,Science (AS - All Tracks),20 or Younger,Other State,Washington,DC,20018,Other,
+859,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",20 or Younger,Other State,Washington,DC,20011,Other,
+860,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Evening Only,Health Sciences (Pre-Clinical Studies),30 or Older,Other State,Germantown,MD,20876,Montgomery,
+861,2015,New,Full-Time,Female,Hispanic,White,No,No,Yes,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Wheaton High School
+862,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,No,Yes,No,Day Only,Communication Studies (AA),21 - 24,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+863,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,Yes,No Specific Time[online],General Studies (AA - All Tracks),21 - 24,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+864,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,Criminal Justice (AA & AAS),20 or Younger,MCPS,Rockville,MD,20852,Montgomery,John F. Kennedy High School
+865,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+866,2015,Continuing,Part-Time,Male,Hispanic,White,Yes,No,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Clarksburg,MD,20871,Montgomery,Richard Montgomery High School
+867,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),25 - 29,MCPS,Chevy Chase,MD,20815,Montgomery,Walt Whitman High School
+868,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),25 - 29,MCPS,Silver Spring,MD,20906,Montgomery,John F. Kennedy High School
+869,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Quince Orchard Sr High School
+870,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Albert Einstein HS & MC Art Cn
+871,2015,Continuing,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Walter Johnson High School
+872,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day & Evening,Engineering Science (AA & AS - All Tracks),20 or Younger,Foreign Country,Hyattsville,MD,20785,Prince George's,
+873,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Evening Only,Credit (Undeclared / Undecided),25 - 29,GED,Rockville,MD,20850,Montgomery,
+874,2015,Continuing,Full-Time,Male,Hispanic,White,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Colonel Zadok Magruder HS
+875,2015,Continuing,Full-Time,Male,Hispanic,White,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Colonel Zadok Magruder HS
+876,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,Yes,Yes,No,Day & Evening,Credit (Undeclared / Undecided),21 - 24,MCPS,Gaithersburg,MD,20882,Montgomery,Damascus High School
+877,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day & Evening,Criminal Justice (AA & AAS),21 - 24,Other State,Silver Spring,MD,20903,Montgomery,
+878,2015,New,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Clarksburg High School
+879,2015,Continuing,Part-Time,Female,Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Richard Montgomery High School
+880,2015,Continuing,Part-Time,Male,Hispanic,Hispanic,No,Yes,No,Day Only,Business / International Business (AA),25 - 29,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+881,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Science (AS - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20877,Montgomery,Colonel Zadok Magruder HS
+882,2015,New,Full-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Rockville,MD,20851,Montgomery,Richard Montgomery High School
+883,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20906,Montgomery,
+884,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20906,Montgomery,
+885,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20906,Montgomery,
+886,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20906,Montgomery,
+887,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20906,Montgomery,
+888,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Silver Spring,MD,20906,Montgomery,
+889,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,Yes,Yes,No,Day Only,Studio Art (AFA) - School of Art & Design,21 - 24,Home-Schooled,Germantown,MD,20874,Montgomery,
+890,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,Other State,Derwood,MD,20855,Montgomery,
+891,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Evening Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Silver Spring,MD,20902,Montgomery,
+892,2015,Continuing,Full-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Digital Media & Web Technology (CT),20 or Younger,MCPS,Burtonsville,MD,20866,Montgomery,Paint Branch High School
+893,2015,Continuing,Part-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+894,2015,New,Full-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+895,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,Foreign Country,Silver Spring,MD,20910,Montgomery,
+896,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,No Specific Time[online],Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Germantown,MD,20874,Montgomery,
+897,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,No Specific Time[online],Credit (Undeclared / Undecided),30 or Older,Foreign Country,North Potomac,MD,20878,Montgomery,
+898,2015,Transfer with degree,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),30 or Older,Foreign Country,Laurel,MD,20708,Prince George's,
+899,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day Only,Science (AS - All Tracks),20 or Younger,Other Maryland,College Park,MD,20740,Prince George's,
+900,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),25 - 29,Other State,Gaithersburg,MD,20878,Montgomery,
+901,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+902,2015,Transfer no degree,Full-Time,Male,Not Hispanic,White,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20901,Montgomery,Northwood High School
+903,2015,HS Student,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+904,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),30 or Older,MCPS,Gaithersburg,MD,20878,Montgomery,Springbrook Sr High School
+905,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),21 - 24,Foreign Country,Burtonsville,MD,20866,Montgomery,
+906,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),21 - 24,Foreign Country,Burtonsville,MD,20866,Montgomery,
+907,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Foreign Country,Gaithersburg,MD,20879,Montgomery,
+908,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Business / International Business (AA),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+909,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,Business / International Business (AA),20 or Younger,Other State,Cheverly,MD,20785,Prince George's,
+910,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,Yes,No,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),21 - 24,MCPS,Gaithersburg,MD,20877,Montgomery,Gaithersburg High School
+911,2015,New,Full-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Accounting (AA & AAS),20 or Younger,Other State,Washington,DC,20001,Other,
+912,2015,New,Part-Time,Female,Hispanic,Native American,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other Maryland,Hyattsville,MD,20782,Prince George's,
+913,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,Yes,No,Evening Only,Credit (Undeclared / Undecided),21 - 24,Foreign Country,Potomac,MD,20854,Montgomery,
+914,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),30 or Older,Other State,Upper Marlboro,MD,20774,Prince George's,
+915,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Cybersecurity (AAS),30 or Older,MCPS,Rockville,MD,20850,Montgomery,Thomas Sprigg Wootton High Sch
+916,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,Other State,Germantown,MD,20874,Montgomery,
+917,2015,HS Student,Part-Time,Female,Not Hispanic,White,No,No,Yes,Evening Only,General Studies (AA - All Tracks),21 - 24,Other State,Chevy Chase,MD,20815,Montgomery,
+918,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,Yes,No,No,Day Only,General Studies (AA - All Tracks),25 - 29,MCPS,Potomac,MD,20854,Montgomery,Winston Churchill High School
+919,2015,Continuing,Full-Time,Male,Hispanic,Native American,Yes,No,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+920,2015,Continuing,Full-Time,Male,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),25 - 29,MCPS,Rockville,MD,20852,Montgomery,Walter Johnson High School
+921,2015,Transfer no degree,Full-Time,Male,Hispanic,White,Yes,Yes,No,Day & Evening,Science (AS - All Tracks),20 or Younger,Other State,Germantown,MD,20874,Montgomery,
+922,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Health Sciences (Pre-Clinical Studies),30 or Older,GED,Germantown,MD,20874,Montgomery,
+923,2015,New,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Science (AS - All Tracks),20 or Younger,Other State,Silver Spring,MD,20905,Montgomery,
+924,2015,Continuing,Part-Time,Female,Hispanic,White,No,No,Yes,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,Sherwood High School
+925,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,Foreign Country,Gaithersburg,MD,20878,Montgomery,
+926,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Montgomery Village,MD,20886,Montgomery,Gaithersburg High School
+927,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Computer Science & Technologies (AA - All Tracks),20 or Younger,Other Maryland,Beltsville,MD,20705,Prince George's,
+928,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day & Evening,Polysomnography Technology (CT),25 - 29,Foreign Country,Silver Spring,MD,20904,Montgomery,
+929,2015,New,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Rockville,MD,20853,Montgomery,Wheaton High School
+930,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+931,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day Only,Credit (Undeclared / Undecided),25 - 29,Foreign Country,Germantown,MD,20874,Montgomery,
+932,2015,New,Full-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Business / International Business (AA),20 or Younger,Other State,Germantown,MD,20874,Montgomery,
+933,2015,New,Full-Time,Female,Hispanic,White,No,Yes,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,Albert Einstein HS & MC Art Cn
+934,2015,New,Full-Time,Female,Hispanic,White,No,No,Yes,Day & Evening,Health Sciences (Pre-Clinical Studies),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Wheaton High School
+935,2015,Continuing,Full-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+936,2015,Continuing,Full-Time,Male,Not Hispanic,Black,Yes,Yes,No,Day & Evening,Engineering Science (AA & AS - All Tracks),30 or Older,Foreign Country,Gaithersburg,MD,20877,Montgomery,
+937,2015,HS Student,Part-Time,Male,Hispanic,Multi-Race,Yes,No,No,Day Only,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+938,2015,New,Part-Time,Female,Hispanic,Native American,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other State,Washington,DC,20009,Other,
+939,2015,Continuing,Full-Time,Female,Not Hispanic,Black,No,Yes,Yes,Day & Evening,Science (AS - All Tracks),21 - 24,Other State,Takoma Park,MD,20912,Montgomery,
+940,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,Yes,Yes,Day & Evening,Paralegal Studies (AA & AAS),25 - 29,Other State,Washington,DC,20012,Other,
+941,2015,Continuing,Part-Time,Female,Hispanic,Black,No,No,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Other State,Washington,DC,20011,Other,
+942,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20850,Montgomery,Thomas Sprigg Wootton High Sch
+943,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,Yes,Evening Only,Science (AS - All Tracks),30 or Older,Foreign Country,Rockville,MD,20851,Montgomery,
+944,2015,Continuing,Full-Time,Female,Not Hispanic,Multi-Race,No,Yes,Yes,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Silver Spring,MD,20910,Montgomery,Bethesda Chevy Chase High Schl
+945,2015,Continuing,Part-Time,Male,Not Hispanic,Black,Yes,No,No,Day Only,Business / International Business (AA),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Clarksburg High School
+946,2015,New,Full-Time,Female,Hispanic,White,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,GED,Rockville,MD,20850,Montgomery,
+947,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Derwood,MD,20855,Montgomery,Colonel Zadok Magruder HS
+948,2015,Continuing,Part-Time,Female,Unknown,Black,No,No,Yes,No Specific Time[online],Paralegal Studies (AA & AAS),21 - 24,Other State,Washington,DC,20011,Other,
+949,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,Yes,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Rockville,MD,20852,Montgomery,
+950,2015,Continuing,Full-Time,Female,Not Hispanic,Asian,Yes,Yes,Yes,Day Only,General Studies (AA - All Tracks),20 or Younger,Mont.County Other,Silver Spring,MD,20901,Montgomery,
+951,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,Architectural & Construction Tech (AA & AAS),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+952,2015,New,Part-Time,Male,Hispanic,White,Yes,No,No,Day & Evening,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,MCPS,Gaithersburg,MD,20882,Montgomery,Clarksburg High School
+953,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Germantown,MD,20874,Montgomery,Seneca Valley High School
+954,2015,Continuing,Full-Time,Female,Not Hispanic,Black,Yes,No,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Foreign Country,Clarksburg,MD,20871,Montgomery,
+955,2015,New,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day Only,Education / Teacher Education (AA & AAT),20 or Younger,MCPS,Rockville,MD,20850,Montgomery,Richard Montgomery High School
+956,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20904,Montgomery,James Hubert Blake High School
+957,2015,Continuing,Part-Time,Female,Hispanic,Hispanic,No,No,Yes,Day Only,Science (AS - All Tracks),20 or Younger,Other Maryland,Hyattsville,MD,20783,Prince George's,
+958,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,MCPS,Rockville,MD,20853,Montgomery,Walter Johnson High School
+959,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),25 - 29,Other State,Bethesda,MD,20817,Montgomery,
+960,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,Yes,Day Only,Business / International Business (AA),20 or Younger,MCPS,Silver Spring,MD,20906,Montgomery,Northwood High School
+961,2015,Continuing,Part-Time,Female,Not Hispanic,White,Yes,No,No,Evening Only,General Studies (AA - All Tracks),30 or Older,Other State,Germantown,MD,20876,Montgomery,
+962,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,No,Yes,Day Only,Nursing (AA & AAS),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Northwood High School
+963,2015,New,Part-Time,Female,Not Hispanic,Asian,No,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,Foreign Country,Silver Spring,MD,20906,Montgomery,
+964,2015,Continuing,Part-Time,Male,Hispanic,White,No,Yes,Yes,No Specific Time[online],Business / International Business (AA),30 or Older,Foreign Country,Washington,DC,20008,Other,
+965,2015,Continuing,Full-Time,Female,Not Hispanic,White,Yes,Yes,No,Day Only,Arts & Sciences Transfer (AA - All Tracks),20 or Younger,Other State,Germantown,MD,20874,Montgomery,
+966,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Other State,Rockville,MD,20852,Montgomery,
+967,2015,New,Part-Time,Male,Hispanic,Hispanic,No,Yes,Yes,Day Only,General Studies (AA - All Tracks),21 - 24,MCPS,Silver Spring,MD,20906,Montgomery,Albert Einstein HS & MC Art Cn
+968,2015,New,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+969,2015,Continuing,Part-Time,Male,Hispanic,White,Yes,Yes,No,Evening Only,Computer Gaming & Simulation (AA - All Tracks),25 - 29,MCPS,Germantown,MD,20874,Montgomery,Northwest HS - Germantown
+970,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),21 - 24,Other State,Bethesda,MD,20814,Montgomery,
+971,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,Yes,Day Only,Credit (Undeclared / Undecided),30 or Older,Foreign Country,Germantown,MD,20874,Montgomery,
+972,2015,Continuing,Part-Time,Female,Not Hispanic,Native American,No,Yes,No,Day Only,General Studies (AA - All Tracks),30 or Older,Foreign Country,Silver Spring,MD,20904,Montgomery,
+973,2015,Continuing,Full-Time,Female,Hispanic,Hispanic,No,Yes,No,Day & Evening,Early Childhood Education (AA & AAS),21 - 24,MCPS,Silver Spring,MD,20905,Montgomery,James Hubert Blake High School
+974,2015,New,Full-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),20 or Younger,Other Maryland,Fort Washington,MD,20744,Prince George's,
+975,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,General Studies (AA - All Tracks),21 - 24,Mont.County Other,Bethesda,MD,20814,Montgomery,
+976,2015,Transfer no degree,Full-Time,Female,Hispanic,Asian,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),20 or Younger,MCPS,Germantown,MD,20876,Montgomery,Seneca Valley High School
+977,2015,HS Student,Part-Time,Male,Not Hispanic,White,No,No,Yes,Evening Only,Engineering Science (AA & AS - All Tracks),20 or Younger,MCPS,Silver Spring,MD,20902,Montgomery,John F. Kennedy High School
+978,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Damascus,MD,20872,Montgomery,Damascus High School
+979,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Damascus,MD,20872,Montgomery,Damascus High School
+980,2015,Continuing,Part-Time,Male,Not Hispanic,White,Yes,No,No,Day Only,Business / International Business (AA),20 or Younger,MCPS,Damascus,MD,20872,Montgomery,Damascus High School
+981,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other State,Potomac,MD,20854,Montgomery,
+982,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other State,Potomac,MD,20854,Montgomery,
+983,2015,Continuing,Part-Time,Male,Not Hispanic,White,No,Yes,No,Day Only,Credit (Undeclared / Undecided),30 or Older,Other State,Potomac,MD,20854,Montgomery,
+984,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Computer Gaming & Simulation (AA - All Tracks),20 or Younger,Mont.County Other,Upper Marlboro,MD,20772,Prince George's,
+985,2015,New,Part-Time,Female,Hispanic,White,No,Yes,Yes,Day & Evening,General Studies (AA - All Tracks),20 or Younger,Other State,Silver Spring,MD,20902,Montgomery,
+986,2015,New,Full-Time,Male,Not Hispanic,Multi-Race,No,Yes,No,Day & Evening,Science (AS - All Tracks),20 or Younger,MCPS,Bethesda,MD,20814,Montgomery,Walter Johnson High School
+987,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Evening Only,Computer Science & Technologies (AA - All Tracks),30 or Older,Other State,Silver Spring,MD,20901,Montgomery,
+988,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day Only,Health Sciences (Pre-Clinical Studies),30 or Older,MCPS,Silver Spring,MD,20906,Montgomery,Sherwood High School
+989,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Evening Only,Credit (Undeclared / Undecided),30 or Older,Other State,Bethesda,MD,20814,Montgomery,
+990,2015,Continuing,Part-Time,Female,Not Hispanic,Asian,Yes,Yes,No,No Specific Time[online],Business / International Business (AA),25 - 29,MCPS,Rockville,MD,20850,Montgomery,Richard Montgomery High School
+991,2015,Continuing,Part-Time,Female,Not Hispanic,White,No,Yes,No,Evening Only,General Studies (AA - All Tracks),30 or Older,Other State,North Potomac,MD,20878,Montgomery,
+992,2015,Continuing,Part-Time,Male,Not Hispanic,Asian,No,No,Yes,Day Only,Arts & Sciences Transfer (AA - All Tracks),25 - 29,Other State,Gaithersburg,MD,20878,Montgomery,
+993,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),30 or Older,Foreign Country,Rockville,MD,20852,Montgomery,
+994,2015,Continuing,Part-Time,Female,Not Hispanic,Black,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),30 or Older,Foreign Country,Rockville,MD,20852,Montgomery,
+995,2015,Continuing,Part-Time,Female,Hispanic,White,No,Yes,No,Day Only,Engineering Science (AA & AS - All Tracks),21 - 24,Other Maryland,Lanham,MD,20706,Prince George's,
+996,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Mental Health Associate (AA & AAS),30 or Older,Foreign Country,Takoma Park,MD,20912,Montgomery,
+997,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,No,Yes,Day Only,Mental Health Associate (AA & AAS),30 or Older,Foreign Country,Takoma Park,MD,20912,Montgomery,
+998,2015,Continuing,Full-Time,Female,Not Hispanic,Multi-Race,Yes,No,No,Day Only,"Graphic Design (AA, AAS, & AFA - All Tracks)",21 - 24,MCPS,Germantown,MD,20876,Montgomery,Clarksburg High School
+999,2015,Continuing,Part-Time,Male,Not Hispanic,Black,No,Yes,No,Day & Evening,General Studies (AA - All Tracks),21 - 24,Other State,Washington,DC,20009,Other,
